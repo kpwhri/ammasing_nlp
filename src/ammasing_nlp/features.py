@@ -197,6 +197,16 @@ FEATURE_FUNCTIONS = [
          'nearest_token_index': 0
      }
      ),
+    ('discontinue',
+     FeatureFunction().has_token_in_sentence,
+     {
+        'kind': 'Discontinue',
+     }),
+    ('discontinue_med',
+     FeatureFunction().has_token_in_sentence,
+     {
+        'kind': 'Discontinue_Med',
+     }),
     ('pw',
      FeatureFunction().previous_word,
      {
