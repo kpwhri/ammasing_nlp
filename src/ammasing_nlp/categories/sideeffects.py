@@ -18,7 +18,7 @@ def get_ses():
 def get_se_rx():
     """Get pattern with loaded side effects"""
     global _SIDE_EFFECTS_RX
-    return _SIDE_EFFECTS_RX or (_SIDE_EFFECTS_RX := create_pattern_from_set(get_ses()))
+    return _SIDE_EFFECTS_RX or (_SIDE_EFFECTS_RX := create_pattern_from_set(get_ses(), clean=True))
 
 
 SE_PAT = re.compile(

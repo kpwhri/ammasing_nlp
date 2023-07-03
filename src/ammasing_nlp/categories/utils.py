@@ -38,6 +38,7 @@ def load_vocab_from_file(filename: str):
         return {line.strip() for line in fh}
 
 
-def create_pattern_from_set(data: set):
-    pattern = '|'.join(clean_phrase(datum) for datum in data)
+def create_pattern_from_set(data: set, clean=False):
+    func = clean_phrase if clean else lambda x: x
+    pattern = '|'.join(func(datum) for datum in data)
     return rf'\b(?:{pattern})\b'
