@@ -1,0 +1,6123 @@
+5'nucleotidase increased
+abasia
+abdominal abscess
+abdominal adhesions
+abdominal aortic aneurysm
+abdominal aortic bruit
+abdominal aortic rupture
+abdominal bloating
+abdominal colic
+abdominal cramps
+abdominal discomfort
+abdominal disorder
+abdominal distension
+abdominal distension gaseous
+abdominal distress
+abdominal hernia
+abdominal infection
+abdominal injury
+abdominal neoplasm
+abdominal pain
+abdominal pain aggravated
+abdominal pain generalised
+abdominal pain localised
+abdominal pain lower
+abdominal pain upper
+abdominal rigidity
+abdominal sepsis
+abdominal spasm
+abdominal strangulated hernia
+abdominal symptom
+abdominal tenderness
+abdominal wall abscess
+abnormal behaviour
+abnormal bowel sounds
+abnormal chest sounds nos
+abnormal clotting factor
+abnormal dreams
+abnormal ejaculation
+abnormal eye movements nos
+abnormal faeces
+abnormal involuntary movements
+abnormal labour
+abnormal pigmentation
+abnormal platelets
+abnormal sensation in eye
+abnormal sleep-related event
+abnormal vision
+abnormal withdrawal bleeding
+abnormalities of the hair
+abortion
+abortion incomplete
+abortion infected
+abortion missed
+abortion spontaneous
+abrasion nos
+abscess
+abscess limb
+abscess periodontal
+abscess sterile
+abscesses of skin
+absolute neutrophil count decreased
+acalculous cholecystitis
+acanthosis nigricans
+acarodermatitis
+accelerated hair loss
+accident
+accident at home
+accidental exposure to product
+accidental ingestion
+accidental injury
+accidental overdose
+accommodation disorder
+acetonaemia
+ache
+ache wrists
+acholia
+acid indigestion
+acid phosphatase high
+acidemia
+acidosis
+acidosis hyperchloraemic
+acne
+acne cystic
+acne fulminans
+acne infantile
+acne pustular
+acne vulgaris
+acneiform eruption
+acquired haemophilia
+acquired immunodeficiency syndrome
+acquired keratoderma
+acquired lipoatrophic diabetes
+acquired megacolon
+acquired night blindness
+acral erythema
+acrochordon
+acrodynia
+acromegaly
+actinic keratosis
+action tremor
+activated partial thromboplastin time prolonged
+activated partial thromboplastin time shortened
+activation syndrome
+acute abdomen
+acute allergic reaction
+acute allograft rejection
+acute anaphylaxis
+acute angle-closure glaucoma
+acute appendicitis
+acute bronchitis
+acute cardiac toxicity
+acute chest pain
+acute cholestatic hepatitis
+acute confusional state
+acute coronary syndrome
+acute cystitis
+acute cytolytic hepatitis
+acute depression
+acute diarrhea
+acute disseminated encephalomyelitis
+acute dyspnea
+acute dystonia
+acute enterocolitis
+acute fatty liver
+acute febrile illness
+acute febrile neutrophilic dermatosis
+acute gastritis
+acute gastroenteritis
+acute generalised exanthematous pustulosis
+acute glaucoma
+acute graft versus host disease
+acute haemolytic anaemia
+acute hepatic failure
+acute interstitial nephritis
+acute interstitial pneumonitis
+acute kidney injury
+acute leukaemia
+acute liver damage
+acute liver injury
+acute lymphocytic leukaemia
+acute migraine
+acute myeloid leukaemia
+acute myocardial infarction
+acute myocardial ischemia
+acute nephritis
+acute overdose
+acute pain
+acute phase reaction
+acute phosphate nephropathy
+acute prerenal failure
+acute promyelocytic leukaemia
+acute promyelocytic leukaemia differentiation syndrome
+acute psychosis
+acute pulmonary oedema
+acute renal insufficiency
+acute respiratory distress syndrome
+acute respiratory failure
+acute retention of urine
+acute schizophrenia
+acute sinusitis
+acute stress disorder
+acute tonsillitis
+acute urticaria
+acute uveitis
+acute yellow liver atrophy
+adams-stokes syndrome
+addison's disease
+adenitis
+adenocarcinoma
+adenocarcinoma of prostate
+adenocarcinoma pancreas
+adenoma benign
+adenomyosis
+adenovirus infection
+adhesion
+adjustment disorder
+administration site infection
+administration site reaction
+adnexa uteri cyst
+adnexa uteri mass
+adnexa uteri pain
+adnexal torsion
+adrenal atrophy
+adrenal carcinoma
+adrenal cortex atrophy
+adrenal cortical hypofunction
+adrenal disorder
+adrenal gland cancer
+adrenal haemorrhage
+adrenal insufficiency
+adrenergic syndrome
+adrenocortical insufficiency acute
+advanced breast cancer
+advanced cancer
+adverse reaction
+aerophagia
+affect lability
+affective disorder
+agep
+ageusia
+aggravation of existing disorder
+aggression
+aggressive reaction
+agitation
+agitation postoperative
+agnosia
+agoraphobia
+agranulocytosis
+aids dementia complex
+aion
+airway complication of anaesthesia
+airway edema
+airway obstruction nos
+akathisia
+akinaesthesia
+akinesia
+alanine aminotransferase abnormal
+alanine aminotransferase decreased
+alanine aminotransferase increased
+alanine aminotransferase normal
+albinism
+albumin globulin ratio abnormal
+albumin high
+albumin low
+albumin urine increased
+albumin urine present
+albuminuria
+alcohol abuse
+alcohol craving
+alcohol intolerance
+alcohol intoxication
+alcohol poisoning
+alcohol problem
+alcohol withdrawal syndrome
+alcoholic pancreatitis
+alcoholic psychosis
+alcoholism
+alertness decreased
+alkaline phosphatase serum increased
+alkalosis
+alkalosis hypochloraemic
+alkalosis hypokalaemic
+allergic asthma
+allergic bronchospasm
+allergic conditions
+allergic contact dermatitis
+allergic cutaneous angiitis
+allergic exanthema
+allergic granulomatous angiitis
+allergic hepatitis
+allergic oedema
+allergic rash
+allergic sinusitis
+allergic skin reaction
+allergic urticaria
+allergy aggravated
+allergy to nuts
+allodynia
+alopecia
+alopecia reversible
+altered state of consciousness
+altered visual depth perception
+alveolar osteitis
+alveolar proteinosis
+alveolitis
+alveolitis allergic
+amaurosis
+amaurosis fugax
+amblyopia
+amelia
+amenorrhea secondary
+amenorrhoea
+aminoaciduria
+aml progression
+ammonia increased
+amnesia
+amnesia transient
+amnestic symptoms
+amniotic cavity infection
+amniotic fluid embolism
+amylase decreased
+amylase increased
+amyloidosis
+ana increased
+anaemia
+anaemia macrocytic
+anaemia megaloblastic
+anaemia neonatal
+anaemia nos aggravated
+anaemia postoperative
+anaemia vitamin b12 deficiency
+anaemias haemolytic immune
+anaemias nec
+anaesthetic complication
+anaesthetic complication neurological
+anal abscess
+anal atresia
+anal cancer
+anal candidiasis
+anal discomfort
+anal fissure
+anal fistula
+anal haemorrhage
+anal inflammation
+anal irritation
+anal pruritus
+anal skin tags
+anal spasm
+anal sphincter atony
+analgesic effect
+analgesic therapy
+anaphylactic responses
+anaphylactic shock
+anaphylactoid reaction
+anaphylactoid syndrome of pregnancy
+anaplastic astrocytoma
+anaplastic large-cell lymphoma
+anaplastic thyroid cancer
+anastomotic leak
+anastomotic ulcer
+androgenetic alopecia
+anemic
+anencephaly
+aneurysm
+anger
+angiitis necrotising
+angina pectoris
+angina pectoris aggravated
+angina symptom
+angina unstable
+anginal attack
+angiodermatitis
+angioedema
+angioedema of larynx
+angioimmunoblastic t-cell lymphoma
+angiomyolipoma
+angiopathy
+angle closure glaucoma
+angular cheilitis
+anhedonia
+anhidrosis
+animal bite
+animal scratch
+anion gap increased
+anisocytosis
+ankle edema
+ankle fracture
+ankle sprain
+ankylosing spondylitis
+anogenital warts
+anophthalmos
+anorectal discomfort
+anorectal disorder
+anorexia
+anorgasmia
+anosmia
+anosognosia
+anovulation
+anovulatory cycle
+anoxia
+antepartum hemorrhage
+anterior chamber cell
+anterior chamber flare
+anterior chamber inflammation
+anterior chamber pigmentation
+anterior ischemic optic neuropathy
+anterior spinal artery syndrome
+anterior uveitis
+anterograde amnesia
+anthrax
+antibiotic associated colitis
+antibiotic-associated diarrhea
+antibody nos negative
+antibody test negative
+antibody test positive
+anticholinergic syndrome
+antidiuresis
+antidiuretic hormone abnormality
+antineutrophil cytoplasmic antibody positive
+antinuclear antibody increased
+antinuclear antibody positive
+antisocial behaviour
+antisocial personality disorder
+anti-thyroid antibody positive
+antitussive therapy
+anuria
+anus disorder
+anxiety
+anxiety aggravated
+anxiety attack
+anxiety depression
+anxiety disorder
+anxiety nec
+anxiety state
+anxiety symptoms nos
+aortic aneurysm
+aortic aneurysm rupture
+aortic arteriosclerosis
+aortic bruit
+aortic disorder
+aortic dissection
+aortic embolus
+aortic rupture
+aortic valve incompetence
+aortic valve sclerosis
+aortic valve stenosis
+apathy
+apgar score low
+aphagia
+aphakia
+aphakic cystoid macular oedema
+aphasia
+aphonia
+aphthous stomatitis
+aplasia
+aplasia cutis congenita
+aplasia pure red cell
+aplastic anaemia
+apnoea
+apocrine and eccrine gland disorders
+apoptosis
+appendicitis
+appetite absent
+appetite disorder
+appetite exaggerated
+application and instillation site reactions
+application site anaesthesia
+application site atrophy
+application site burn
+application site cellulitis
+application site discharge
+application site discolouration
+application site discomfort
+application site dryness
+application site eczema
+application site erosion
+application site erythema
+application site excoriation
+application site exfoliation
+application site folliculitis
+application site haematoma
+application site haemorrhage
+application site hyperaesthesia
+application site hypersensitivity
+application site induration
+application site infection
+application site inflammation
+application site irritation
+application site oedema
+application site pain
+application site papules
+application site paraesthesia
+application site pigmentation changes
+application site pruritus
+application site pustules
+application site rash
+application site reaction
+application site scab
+application site scar
+application site skin breakdown
+application site stinging
+application site swelling
+application site ulcer
+application site urticaria
+application site vesicles
+application site warmth
+apprehension
+apraxia
+arachnoiditis
+arcus juvenilis
+arcus lipoides
+arcus senilis
+areflexia
+argininosuccinate synthetase deficiency
+argumentativeness
+arrhythmia
+arrhythmia supraventricular
+arterial aneurysm
+arterial anomaly
+arterial disorder
+arterial insufficiency
+arterial occlusion
+arterial occlusive disease
+arterial spasm
+arterial stenosis limb
+arterial thromboembolism
+arterial thrombosis
+arteriosclerosis
+arteriosclerosis coronary artery
+arteriosclerotic retinopathy
+arteriospasm coronary
+arteriovenous fistula
+arteriovenous fistula thrombosis
+arteritic anterior ischaemic optic neuropathy
+arteritis
+artery dissection
+arthralgia
+arthralgia aggravated
+arthralgia of temporomandibular joint
+arthritic pains
+arthritis
+arthritis aggravated
+arthritis bacterial
+arthritis infective
+arthropathy
+arthropod bite
+arthropod sting
+artificial kidney clotting during dialysis
+ascariasis
+ascites
+aseptic necrosis
+aseptic necrosis of bone
+aseptic peritonitis
+asocial behaviour
+aspartate aminotransferase decreased
+aspartate aminotransferase increased
+aspartate aminotransferase normal
+aspergilloma
+aspergillosis
+aspergillus infection
+aspermia
+asphyxia
+aspiration
+aspiration pneumonitis
+assault
+assisted fertilisation
+asteatosis
+asterixis
+asthenia
+asthenic conditions
+asthenopia
+asthma
+asthma aggravated
+asthmatic attack
+astrocytoma
+asymptomatic bacteriuria
+asymptomatic hyperlactatemia
+ataxia
+ataxic gait
+atelectasis
+atheroma
+atherosclerosis
+atherothrombosis
+athetosis
+atonic urinary bladder
+atopic rhinitis
+atopy
+atresia biliary
+atrial arrhythmia
+atrial fibrillation
+atrial fibrillation and flutter
+atrial flutter
+atrial hypertrophy
+atrial rhythm
+atrial septal defect
+atrial tachycardia
+atrioventricular block
+atrioventricular block complete
+atrioventricular block first degree
+atrioventricular block second degree
+atrioventricular dissociation
+atrophic glossitis
+atrophic vulvovaginitis
+atrophy
+attention concentration difficulty
+attention deficit disorder
+attention deficit/hyperactivity disorder
+atypical femur fracture
+atypical fracture
+atypical mycobacterial infection
+atypical pneumonia
+atypical stress fracture
+auditory and visual hallucinations
+auditory disorder nos
+aura
+auricular swelling
+autism
+autism spectrum disorder
+autoimmune disorder
+autoimmune haemolytic anaemia
+autoimmune hepatitis
+autoimmune thrombocytopenia
+automatism
+autonomic dysfunction
+autonomic nervous system imbalance
+autonomic neuropathy
+avascular necrosis femoral head
+avitaminosis
+axonal neuropathy
+azoospermia
+azotaemia
+azotaemia of renal origin
+azotemia prerenal
+back disorder
+back distress
+back injury
+back pain
+back pain aggravated
+back strain
+background diabetic retinopathy
+bacteraemia
+bacteria urine identified
+bacterial colonisation
+bacterial disease carrier
+bacterial infection
+bacterial infections nec
+bacterial prostatitis
+bacterial test positive
+bacteriuria
+bacteriuria nos present
+bad dreams
+bad taste
+balance difficulty
+balance disorder
+balanitis
+balanitis candida
+balanoposthitis
+band neutrophil count increased
+barium impaction
+barrett's oesophagus
+bartholin's cyst
+basal cell carcinoma
+basedow's disease
+basilar artery syndrome
+basophilia
+battery
+b-cell lymphoma
+b-cell type acute leukaemia
+bcg infection
+beckwith-wiedemann syndrome
+bedridden
+behavior disorder
+bell's palsy
+benign breast neoplasm
+benign gastrointestinal neoplasm
+benign hepatic neoplasm
+benign hydatidiform mole
+benign intracranial hypertension
+benign neoplasm
+benign neoplasm of skin
+benign prostatic hyperplasia
+benign prostatic hypertrophy
+benign vaginal neoplasm
+beta 2 microglobulin increased
+beta 2 microglobulin urine increased
+bezoar
+bicarbonate decreased serum
+bicarbonate level
+bicytopenia
+bilateral hydronephrosis
+bile duct cancer
+bile duct disorders
+bile duct neoplasms malignant
+bile duct stenosis
+biliary colic
+biliary fibrosis
+biliary sludge
+biliary tract disorder
+bilious vomiting
+bilirubin abnormal
+bilirubin conjugated increased
+bilirubin normal
+bilirubin total decreased
+bilirubin total increased
+bilirubin total low
+bilirubin unconjugated increased
+bilirubin value increased
+binge eating
+bipolar disorder
+bipolar i disorder
+birth weight low
+bizarre dreams
+bk virus infection
+black hairy tongue
+black spot
+blacked-out (not amnesia)
+blackwater fever
+bladder and urethral symptoms
+bladder cancer
+bladder carcinoma
+bladder constriction
+bladder dilatation
+bladder discomfort
+bladder disorder
+bladder distension
+bladder diverticulum
+bladder dysfunction
+bladder fibrosis
+bladder infection
+bladder irritation
+bladder neck obstruction
+bladder necrosis
+bladder neoplasm
+bladder pain
+bladder spasm
+bladder stenosis
+blanching
+blanching of skin
+blast cell crisis
+blastomycosis
+bleeding breakthrough
+bleeding tendency
+bleeding time prolonged
+blepharal pigmentation
+blepharitis
+blepharitis allergic
+blepharoconjunctivitis
+blepharospasm
+blighted ovum
+blindness
+blindness cortical
+blindness day
+blindness transient
+blindness unilateral
+blindness, both eyes
+blister
+bloated feeling
+block heart
+blood acid phosphatase increased
+blood albumin decreased
+blood albumin increased
+blood alkaline phosphatase increased
+blood amylase increased
+blood and lymphatic system disorders
+blood antidiuretic hormone abnormal
+blood bicarbonate
+blood bicarbonate decreased
+blood bicarbonate increased
+blood bilirubin abnormal
+blood bilirubin decreased
+blood bilirubin increased
+blood bilirubin normal
+blood bilirubin unconjugated increased
+blood calcium abnormal
+blood calcium decreased
+blood chloride decreased
+blood chloride increased
+blood cholesterol abnormal
+blood cholesterol decreased
+blood cholesterol increased
+blood copper decreased
+blood cortisol decreased
+blood cortisol increased
+blood count abnormal
+blood creatine increased
+blood creatine phosphokinase abnormal
+blood creatine phosphokinase increased
+blood creatine phosphokinase mb increased
+blood creatine phosphokinase mm increased
+blood creatinine abnormal
+blood creatinine decreased
+blood creatinine increased
+blood creatinine normal
+blood culture positive
+blood disorder
+blood electrolytes abnormal
+blood electrolytes decreased
+blood fibrinogen decreased
+blood fibrinogen increased
+blood follicle stimulating hormone increased
+blood gases abnormal
+blood gastrin increased
+blood glucose abnormal
+blood glucose decreased
+blood glucose fluctuation
+blood glucose increased
+blood gonadotrophin decreased
+blood gonadotrophin increased
+blood growth hormone increased
+blood immunoglobulin g decreased
+blood in stool
+blood insulin decreased
+blood insulin increased
+blood iron abnormal
+blood iron decreased
+blood iron increased
+blood lactate dehydrogenase increased
+blood luteinising hormone increased
+blood magnesium decreased
+blood magnesium increased
+blood methaemoglobin present
+blood monocytes increased
+blood neutrophil count decreased
+blood oestrogen decreased
+blood oestrogen increased
+blood osmolarity decreased
+blood osmolarity increased
+blood pancreatic amylase increased
+blood parathyroid hormone increased
+blood ph decreased
+blood phosphate increased
+blood phosphorus decreased
+blood phosphorus increased
+blood potassium abnormal
+blood potassium decreased
+blood potassium increased
+blood pressure abnormal
+blood pressure diastolic decreased
+blood pressure diastolic increased
+blood pressure fluctuation
+blood pressure inadequately controlled
+blood pressure increased
+blood pressure normal
+blood pressure systolic decreased
+blood pressure systolic increased
+blood prolactin decreased
+blood prolactin increased
+blood sodium abnormal
+blood sodium increased
+blood test abnormal
+blood testosterone decreased
+blood testosterone free increased
+blood testosterone increased
+blood thromboplastin decreased
+blood thyroid stimulating hormone decreased
+blood thyroid stimulating hormone increased
+blood triglycerides decreased
+blood triglycerides increased
+blood urea abnormal
+blood urea decreased
+blood urea increased
+blood urea normal
+blood uric acid abnormal
+blood uric acid decreased
+blood uric acid increased
+blood urine
+blood urine present
+blood zinc decreased
+bloodshot eye
+bloody discharge
+blotchy rash
+blue toe syndrome
+blunted affect
+body fat disorder
+body hair loss
+body height decreased
+body mass index decreased
+body odor
+body temperature altered
+body temperature decreased
+body temperature fluctuation
+body temperature increased
+body tinea
+bone and joint infections
+bone cancer metastatic
+bone density decreased
+bone development abnormal
+bone disorder
+bone lesion
+bone marrow aplastic
+bone marrow depression
+bone marrow disorder
+bone marrow granuloma
+bone marrow toxicity
+bone mass decreased
+bone metabolism disorder
+bone neoplasm
+bone pain
+bone pain aggravated
+bone sarcoma
+bone spur
+bone tenderness
+borborygmi
+bovine tuberculosis
+bowel sounds decreased
+bowel spasm
+bowen's disease
+brachial plexus injury
+bradyarrhythmia
+bradycardia
+bradycardia foetal
+bradycardia-tachycardia syndrome
+bradykinesia
+bradyphrenia
+bradypsychic response
+brain abscess
+brain cancer metastatic
+brain disorder nos
+brain herniation
+brain hypoxia
+brain infarction
+brain injury
+brain neoplasm
+brain neoplasm benign
+brain oedema
+brain stem glioma
+brain stem haemorrhage
+brain stem syndrome
+breakthrough pain
+breast abscess
+breast atrophy
+breast calcifications
+breast cancer
+breast cancer female
+breast cancer invasive nos
+breast cancer male
+breast cancer stage iv
+breast cyst
+breast discharge
+breast discomfort
+breast disorder
+breast disorder female
+breast engorgement
+breast enlargement
+breast enlargement female
+breast feeding
+breast fibroma
+breast fibrosis
+breast induration
+breast malformation
+breast mass
+breast microcalcification
+breast neoplasm
+breast neoplasm benign female
+breast neoplasm nos male
+breast oedema
+breast pain
+breast pain female
+breast pain male
+breast swelling
+breast tenderness
+breast tension
+breath holding
+breath holding attack
+breath odour
+breath odour ketones
+breath sounds abnormal
+breech presentation
+bronchial disorder
+bronchial haemorrhage
+bronchial hyperreactivity
+bronchial mucus plug
+bronchial obstruction
+bronchial secretion retention
+bronchial ulceration
+bronchiectasis
+bronchiolitis
+bronchiolitis obliterans with organizing pneumonia
+bronchioloalveolar carcinoma
+bronchitis
+bronchitis bacterial
+bronchitis viral
+bronchoconstriction
+bronchopneumonia
+bronchopneumopathy
+bronchopulmonary aspergillosis
+bronchopulmonary dysplasia
+bronchospasm
+bronchospasm aggravated
+bronchospasm paradoxical
+bronchostenosis
+brown tumour
+brown urine
+brugada syndrome
+bruxism
+buccal inflammation
+buccal mucosa ulceration
+buccal mucosal roughening
+buccoglossal syndrome
+bucking
+budd-chiari syndrome
+buffalo hump
+bulimia
+bulimia nervosa
+bullous conditions
+bullous eruption
+bullous impetigo
+bullous keratopathy
+bullous lichen planus
+bundle branch block
+bundle branch block left
+bundle branch block right
+burkitt's lymphoma
+burn
+burning anal
+burning feeling vagina
+burning foot
+burning in throat
+burning mouth
+burning mouth syndrome
+burning rectal
+burning sensation
+burning sensation in eye
+burning tongue
+burns second degree
+bursitis
+buttock pain
+c1 esterase deficiency acquired
+ca++ increased
+cachexia
+caecitis
+calcaneal spur
+calcification metastatic
+calcinosis
+calciphylaxis
+calcium abnormal nos
+calcium deficiency
+calcium intoxication
+calcium low
+calcium metabolism disorder
+calculus bladder
+calculus of kidney
+calculus ureteric
+calculus urinary
+call-fleming syndrome
+cancer pain
+candida albicans infection
+candida cervicitis
+candida infection
+candida sepsis
+candiduria
+cannula site reaction
+capillary fragility
+capillary fragility increased
+capillary leak syndrome
+carbohydrate craving
+carbohydrate tolerance decreased
+carbon dioxide decreased
+carbon dioxide increased
+carbuncle
+carcinogenicity
+carcinoid tumour
+carcinoma
+carcinoma breast
+carcinoma colon
+carcinoma in situ
+carcinoma of lung
+carcinoma of tongue
+carcinoma stomach
+carcinoma testes
+cardiac amyloidosis
+cardiac arrest
+cardiac death
+cardiac discomfort
+cardiac disorder
+cardiac enzymes increased
+cardiac failure
+cardiac failure acute
+cardiac failure congestive
+cardiac failure high output
+cardiac failure right
+cardiac fibrillation
+cardiac flutter
+cardiac hypertrophy
+cardiac murmur
+cardiac output decreased
+cardiac output increased
+cardiac pain
+cardiac septal defect
+cardiac syncope
+cardiac tamponade
+cardiac valve disease
+cardiac valve replacement complication
+cardioactive drug level above therapeutic
+cardioactive drug level increased
+cardiogenic shock
+cardiomegaly
+cardiomyopathy
+cardiomyopathy secondary nos
+cardiopulmonary failure
+cardio-respiratory arrest
+cardio-respiratory distress
+cardiotoxicity
+cardiovascular disorder
+cardiovascular insufficiency
+carditis
+carotene decreased
+carotid artery occlusion
+carotid artery stenosis
+carotid artery thrombosis
+carotid bruit
+carotid pulse
+carotid sinus hypersensitivity
+carotid sinus syndrome
+carpal tunnel syndrome
+carpo-pedal spasm
+catalepsy
+cataplexy
+cataract
+cataract conditions
+cataract cortical
+cataract diabetic
+cataract nuclear
+cataract specified
+cataract subcapsular
+cataract traumatic
+cataract unilateral
+catatonia
+catatonic reaction
+catheter blockage
+catheter infection
+catheter related complication
+catheter related infection
+catheter sepsis
+catheter site cellulitis
+catheter site erythema
+catheter site haemorrhage
+catheter site infection
+catheter site inflammation
+catheter site pain
+catheter site phlebitis
+catheter site related reaction
+catheter thrombosis
+cauda equina syndrome
+causalgia
+caustic injury
+cd4 lymphocytes decreased
+cellulitis
+cellulitis gangrenous
+cellulitis staphylococcal
+central line infection
+central nervous system disorder
+central nervous system haemorrhage
+central nervous system infection
+central nervous system neoplasm
+central nervous system stimulation
+central obesity
+central retinal vein occlusion
+central scotoma
+central serous retinopathy
+cerebellar ataxia
+cerebellar atrophy
+cerebellar infarction
+cerebellar oedema
+cerebellar syndrome
+cerebral arterial aneurysm
+cerebral arteriosclerosis
+cerebral arteritis
+cerebral artery embolism
+cerebral artery stenosis
+cerebral atrophy
+cerebral dysfunction
+cerebral haematoma
+cerebral haemorrhage
+cerebral hypoperfusion
+cerebral infarction
+cerebral ischaemia
+cerebral thrombosis
+cerebral vasoconstriction
+cerebral venous thrombosis
+cerebration impaired
+cerebritis
+cerebrospinal fluid leakage
+cerebrospinal fluid rhinorrhea
+cerebrovascular accident
+cerebrovascular disorder
+cerebrovascular infarction
+cerebrovascular insufficiency
+cerumen impaction
+ceruminosis
+cervical adenitis
+cervical discharge
+cervical dysplasia
+cervical incompetence
+cervical polyp
+cervical smear test positive
+cervical vertebral fracture
+cervicitis
+cervicobrachial syndrome
+cervix carcinoma
+cervix carcinoma stage 0
+cervix disorder
+cervix haemorrhage uterine
+cervix neoplasm
+chalazion
+chalky taste
+change in blood pressure
+change of bowel habit
+chapped lips
+chapped skin
+cheilitis
+cheilosis
+chemical burn
+chemical conjunctivitis
+chemical cystitis
+chemical eye injury
+chemical injury
+chemical peritonitis
+chemical phlebitis
+chemosis
+chest discomfort
+chest heaviness
+chest mass nos
+chest pain
+chest pain exertional
+chest pressure
+chest pressure sensation of
+chest tightness
+chest wall pain
+chest x-ray abnormal
+chest x-ray normal
+cheyne-stokes respiration
+chills
+chlamydial infection
+chloasma
+chloropsia
+choking
+choking sensation
+cholangiocarcinoma
+cholangitis
+cholangitis sclerosing
+cholecystitis
+cholecystitis acute
+cholecystitis and cholelithiasis
+cholecystitis chronic
+cholecystitis infective
+cholelithiasis
+cholestasis
+cholestasis extrahepatic
+cholestasis intrahepatic
+cholestatic liver disease
+cholestatic liver injury
+cholesterol serum elevated
+cholinergic crisis
+cholinergic syndrome
+choluria
+chondrocalcinosis
+chondrodystrophy
+chondrolysis
+chondropathy
+chorea
+choreiform
+choreoathetoid movements
+choreoathetosis
+choriocarcinoma
+chorioretinitis
+chorioretinopathy
+choroidal detachment
+choroidal effusion
+choroidal nevus
+choroiditis
+chromatopsia
+chromaturia
+chromosomal mutation
+chronic allograft nephropathy
+chronic anxiety
+chronic conjunctivitis
+chronic diarrhea
+chronic eosinophilic leukaemia
+chronic fatigue syndrome
+chronic graft versus host disease
+chronic hepatic failure
+chronic hepatitis
+chronic hepatitis b
+chronic idiopathic constipation
+chronic insomnia
+chronic interstitial nephritis
+chronic kidney disease
+chronic leukaemia
+chronic liver disease
+chronic lymphocytic leukaemia
+chronic myeloid leukaemia
+chronic myelomonocytic leukaemia
+chronic obstructive pulmonary disease
+chronic pain
+chronic peptic ulcer
+chronic phase chronic myeloid leukemia
+chronic renal insufficiency
+chronic sinusitis
+chrysiasis
+chylothorax
+ciliary muscle spasm
+cinchonism
+circadian rhythm sleep disorder
+circulatory depression
+circumoral oedema
+circumoral paresthesia
+circumscribed scleroderma
+cirrhosis alcoholic
+citrate toxicity
+claudication
+claustrophobia
+clavicle fracture
+cleft lip
+cleft palate
+clinical flare reaction
+clitoral engorgement
+cloacal exstrophy
+clonic convulsion
+clonic movements
+clonus
+clostridial infection
+clostridium colitis
+clostridium difficile colitis
+clotting
+cloudy urine
+clubbing
+clumsiness
+cluster headache
+cns depression nos
+cns toxicity
+coagulation factor decreased
+coagulation necrosis
+coagulation test abnormal
+coagulation time prolonged
+coagulopathy
+coarctation of the aorta
+coccydynia
+cochlear toxicity
+cognitive deterioration
+cognitive disorder
+cognitive impairment
+cogwheel rigidity
+coital bleeding
+cold feet
+cold hands
+cold hands & feet
+cold intolerance
+cold sweat
+cold symptoms
+coldness
+colitis
+colitis ischaemic
+colitis microscopic
+colitis ulcerative
+collagen disorder
+collagen-vascular disease
+collapse
+colon atonic
+colon cancer
+colon obstruction
+colonic abscess
+colonic polyp
+colonic pseudo-obstruction
+color vision change
+colorectal cancer
+colorectal cancer metastatic
+colour blindness
+colour blindness acquired
+colpocele
+coma
+coma hepatic
+comedone
+common cold
+common wart
+community acquired infection
+community acquired pneumonia
+compartment syndrome
+complete hearing loss
+completed suicide
+complex partial seizures
+complex regional pain syndrome
+complication of delivery
+complication of device insertion
+complication of pregnancy
+complications of transplant surgery
+compression fracture
+compulsions
+compulsive personality disorder
+compulsive sexual behaviour
+compulsive shopping
+concussion
+condition aggravated
+conduction disorder
+confusion aggravated
+confusion postoperative
+confusional state
+congenital absence of bile ducts
+congenital anomaly
+congenital arterial malformation
+congenital central nervous system anomaly
+congenital clubfoot
+congenital cystic kidney disease
+congenital diaphragmatic hernia
+congenital eye disorder
+congenital foot malformation
+congenital generalised lipodystrophy
+congenital genital malformation
+congenital genitourinary abnormality
+congenital hydronephrosis
+congenital hypertrophic pyloric stenosis
+congenital hypothyroidism
+congenital joint malformation
+congenital limb hyperextension
+congenital megacolon
+congenital musculoskeletal anomaly
+congenital oral malformation
+congenital renal cyst
+congenital skin disorder
+congenital vesicoureteric reflux
+congestive cardiomyopathy
+conjoined twins
+conjunctival bleb
+conjunctival congestion
+conjunctival cyst
+conjunctival discharge
+conjunctival disorder
+conjunctival follicles
+conjunctival haemorrhage
+conjunctival hyperaemia
+conjunctival irritation
+conjunctival oedema
+conjunctival ulcer
+conjunctival xerosis
+conjunctivitis
+conjunctivitis allergic
+conjunctivitis bacterial
+conjunctivitis exacerbated
+conjunctivitis infective
+conjunctivitis papillary
+connective tissue disorder
+connective tissue inflammation
+consciousness abnormal
+consciousness clouding
+constipation
+constipation aggravated
+constipation chronic
+contact lens intolerance
+contraceptive device complication
+contracted bladder
+contraction skeletal muscle
+contrast media reaction
+contusion
+conversion disorder
+convulsion
+convulsion neonatal
+convulsions aggravated
+convulsions generalised
+convulsive disorder
+convulsive seizure
+coombs direct test positive
+coombs positive haemolytic anaemia
+coombs test positive
+coordination abnormal
+coordination disturbance
+copd exacerbation
+copper deficiency
+cor pulmonale
+corneal abrasion
+corneal calcification
+corneal decompensation
+corneal defect
+corneal degeneration
+corneal deposits
+corneal disorder
+corneal dystrophy
+corneal epithelium defect
+corneal epithelium disorder
+corneal erosion
+corneal infiltrates
+corneal irritation
+corneal lesion
+corneal oedema
+corneal opacity
+corneal perforation
+corneal pigmentation
+corneal scar
+corneal sensitivity decreased
+corneal staining
+corneal stromal edema
+corneal thinning
+coronary artery disease
+coronary artery disease aggravated
+coronary artery insufficiency
+coronary artery occlusion
+coronary artery stenosis
+coronary artery thrombosis
+coronary heart disease
+coronary stent thrombosis
+corpus callosum agenesis
+corpus luteum cyst
+coryza
+costochondritis
+costovertebral angle tenderness
+cotton wool spots
+cough
+cough decreased
+cough increased
+cough suppression
+coxalgia
+cramp muscle
+cramp of limb
+cramps of lower extremities
+cranial nerve disorder
+cranial nerve paralysis
+craniosynostosis
+c-reactive protein increased
+creatine increased
+creatine phosphokinase increased
+creatine phosphokinase serum increased
+creatinine abnormal nos
+creatinine increased
+creatinine low
+creatinine normal
+creatinine renal clearance decreased
+crohn's disease
+crohns disease aggravated
+cross reactive drug hypersensitivity
+cross resistance
+croup infectious
+crying
+crying abnormal
+cryptococcal cutaneous infection
+cryptococcosis
+cryptorchism
+cryptosporidiosis infection
+crystal urine present
+crystalluria
+crystalluria calcium
+culture negative
+cushingoid
+cushing's syndrome
+cutaneous hypersensitivity
+cutaneous lupus erythematosus
+cutaneous sarcoidosis
+cutaneous t-cell lymphoma
+cutaneous vasculitis
+cutis anserina
+cutis laxa
+cyanopsia
+cyanosis
+cyanosis peripheral
+cyanotic heart disease
+cyclophoria
+cycloplegia
+cyclosporine toxicity
+cyclothymic disorder
+cyst
+cyst epidermal
+cystitis
+cystitis haemorrhagic
+cystitis interstitial
+cystitis noninfective
+cystitis viral
+cystocele
+cystoid macular oedema
+cytarabine syndrome
+cytogenetic abnormality
+cytokine release syndrome
+cytolytic hepatitis
+cytomegalovirus chorioretinitis
+cytomegalovirus colitis
+cytomegalovirus gastritis
+cytomegalovirus hepatitis
+cytomegalovirus infection
+cytomegalovirus retinitis
+cytomegalovirus syndrome
+cytomegalovirus viraemia
+cytopenia
+cytotoxic oedema
+dacryoadenitis acquired
+dacryocanaliculitis
+dacryocystitis
+dacryostenosis acquired
+dactylitis
+dandruff
+dark circles under eyes
+deafness
+deafness bilateral
+deafness neurosensory
+deafness permanent
+deafness transitory
+deafness unilateral
+death
+death neonatal
+decompensated cirrhosis
+decompensation cardiac
+decreased appetite
+decreased immune responsiveness
+decreased interest
+decreased night vision
+decreased tolerance
+decreased vibratory sense
+decubitus ulcer
+deep vein thrombosis
+defaecation urgency
+defect conduction intraventricular
+defective colour vision
+deficiency anaemia
+deficiency of bile secretion
+degeneration of uterine fibroid
+dehydration
+delayed delivery
+delayed gastric emptying
+delayed orgasm
+delayed puberty
+delayed recovery from anaesthesia
+delirium
+delirium toxic
+delirium tremens
+delusion
+delusional disorders
+delusional perception
+dementia
+dementia alzheimer's type
+dementia with lewy bodies
+demyelinating polyneuropathy
+demyelination
+demyelination disorder nos
+dental caries
+dental discomfort
+dentoalveolar abscess
+dentofacial anomaly
+dependence
+dependence on opiates
+dependence physiological
+dependence psychological
+depersonalisation
+depersonalization syndrome
+deposit calcium
+deposit eye
+depressed level of consciousness
+depressed mood
+depression
+depression aggravated
+depression suicidal
+depressive disorder
+depressive episode
+depressive symptom
+derealisation
+dermal cyst
+dermatillomania
+dermatitis
+dermatitis acneiform
+dermatitis atopic
+dermatitis bullous
+dermatitis contact
+dermatitis diaper
+dermatitis exfoliative
+dermatitis eyelid
+dermatitis flare-up
+dermatitis hemorrhagic
+dermatitis infected
+dermatitis irritant contact
+dermatitis perioral
+dermatitis psoriasiform
+dermatitis radiation nos
+dermatochalasis
+dermatomyositis
+dermatophytosis
+dermoid cyst
+dermoid cyst of ovary
+descemetitis
+destructive thyroiditis
+detachment of retinal pigment epithelium
+detachment psychological
+detrusor instability
+developmental coordination disorder
+developmental delay
+developmental glaucoma
+developmental hip dysplasia
+device breakage
+device capturing issue
+device dislocation
+device expulsion
+device interaction
+device malfunction
+device occlusion
+device related infection
+device related sepsis
+diabetes insipidus
+diabetes mellitus
+diabetes mellitus exacerbated
+diabetes mellitus inadequate control
+diabetic
+diabetic autonomic neuropathy
+diabetic coma
+diabetic complication
+diabetic foot infection
+diabetic hyperglycaemic coma
+diabetic hyperosmolar coma
+diabetic ketoacidosis
+diabetic nephropathy
+diabetic neuropathy
+diabetic peripheral neuropathy
+diabetic retinopathy
+diabetic vascular disorder
+dialysis dementia
+diaphragmatic hernia
+diarrhoea
+diarrhoea haemorrhagic
+diarrhoea, clostridium difficile
+diastolic dysfunction
+diastolic hypertension
+diet refusal
+difficulty focusing eyes
+difficulty sleeping
+difficulty thinking
+diffuse alopecia
+diffuse large b-cell lymphoma
+digestion impaired
+digitalis intoxication (nos)
+digitalis toxicity
+digoxin effect
+digoxin level increased
+digoxin toxicity
+dilatation atrial
+dilatation ventricular
+diplegia
+diplopia
+direct bilirubin increased
+disability
+discoid lupus erythematosus
+discomfort
+discomfort rectal
+disease progression
+disease recurrence
+disequilibrium syndrome
+disinhibition
+disorder birth
+disorder calcium (nos)
+disorder periosteal
+disorder sight
+disorders of fluid, electrolyte and acid-base balance
+disorientation
+disseminated intravascular coagulation
+disseminated tuberculosis
+dissociation
+dissociative disorder
+distention
+distractibility
+distress
+distress gastrointestinal
+disturbance in attention
+disturbance in sexual arousal
+disulfiram like reaction
+diuresis
+diuretic effect
+diverticular perforation
+diverticulitis
+diverticulitis aggravated
+diverticulum
+diverticulum intestinal
+dizziness
+dizziness aggravated
+dizziness exertional
+dizziness postural
+dizzy spells
+dreaming excessive
+dreamy state
+drooling
+dropped beats
+drowsiness
+drug - food interaction
+drug abuse
+drug administration error
+drug craving
+drug dependence
+drug effect decreased
+drug effect increased
+drug effect prolonged
+drug eruption
+drug fever
+drug hypersensitivity
+drug ineffective
+drug interaction
+drug intolerance
+drug level changed
+drug level decreased
+drug level increased
+drug maladministration
+drug reaction with eosinophilia and systemic symptoms
+drug screen positive
+drug seeking behavior
+drug tolerance
+drug tolerance decreased
+drug toxicity
+drug withdrawal convulsions
+drug withdrawal syndrome
+drug withdrawal syndrome neonatal
+drug-induced cough
+drug-induced hepatitis
+drug-induced hypersensitivity syndrome
+drug-induced liver injury
+drug-induced lupus erythematosus
+drug-induced parkinsonism
+dry cough
+dry eye
+dry eye syndrome
+dry hair
+dry mouth
+dry scalp
+dry skin
+dry throat
+duodenal perforation
+duodenal ulcer
+duodenal ulcer aggravated
+duodenal ulcer haemorrhage
+duodenal ulcer perforation
+duodenitis
+duodenitis haemorrhagic
+dupuytren's contracture
+dwarfism
+dysacusis
+dysaesthesia
+dysaesthesia pharynx
+dysarthria
+dysautonomia
+dyschezia
+dyschromatopsia
+dysdiadochokinesis
+dysentery
+dysequilibrium
+dysfunction adrenal
+dysfunction thyroid
+dysgeusia
+dysgraphia
+dyshidrotic eczema
+dyskinesia
+dyslexia
+dyslipidaemia
+dysmenorrhoea
+dysmetria
+dysmorphism
+dysosmia
+dyspareunia
+dyspepsia
+dyspepsia aggravated
+dyspeptic signs and symptoms
+dysphagia
+dysphasia
+dysphemia
+dysphonia
+dysphoria
+dysplasia
+dyspnoea
+dyspnoea at rest
+dyspnoea exacerbated
+dyspnoea exertional
+dyspnoea paroxysmal nocturnal
+dyssomnia
+dysstasia
+dysthymic disorder
+dystonia
+dystonic reaction
+dystrophic calcification
+dysuria
+ear and labyrinth disorders
+ear buzzing
+ear canal erythema
+ear congestion
+ear discomfort
+ear disorder
+ear disorders nec
+ear feels clogged
+ear haemorrhage
+ear infection
+ear malformation
+ear pain
+ear pruritus
+ear roaring
+early menarche
+early satiety
+eating disorder
+ecchymosis
+ecg signs of myocardial ischaemia
+echoacousia
+echocardiogram abnormal
+echolalia
+eclampsia
+ectopic acth syndrome
+ectopic ossification
+ectopic pregnancy
+ectromelia
+ectropion
+ectropion of cervix
+eczema
+eczema allergic atopic
+eczema exacerbated
+eczema eyelids
+eczema herpeticum
+eczema infected
+edema cerebral
+edema hands
+edema of lower extremities
+edema transient
+effusion
+effusion of knee
+ejaculation decreased
+ejaculation delayed
+ejaculation disorder
+ejaculation failure
+ejaculation inhibited
+ejection fraction decreased
+elastosis perforans
+electric shock
+electrocardiogram abnormal
+electrocardiogram abnormal specific
+electrocardiogram change
+electrocardiogram poor r-wave progression
+electrocardiogram pr prolongation
+electrocardiogram pr shortened
+electrocardiogram qrs complex
+electrocardiogram qrs complex abnormal
+electrocardiogram qrs complex prolonged
+electrocardiogram qt corrected interval
+electrocardiogram qt corrected interval prolonged
+electrocardiogram qt interval
+electrocardiogram qt interval abnormal
+electrocardiogram qt prolonged
+electrocardiogram qt shortened
+electrocardiogram repolarisation abnormality
+electrocardiogram st segment
+electrocardiogram st segment abnormal
+electrocardiogram st segment depression
+electrocardiogram st segment elevation
+electrocardiogram st-t change
+electrocardiogram st-t segment abnormal
+electrocardiogram t wave abnormal
+electrocardiogram t wave amplitude decreased
+electrocardiogram t wave inversion
+electrocardiogram u wave present
+electrocardiogram u-wave abnormality
+electroencephalogram abnormal
+electrolyte abnormality
+electrolyte depletion
+electrolyte disturbance
+electrolyte imbalance
+electrolytes nos decreased
+electroretinogram abnormal
+elevated liver enzyme levels
+elevated mood
+embolic stroke
+embolism
+embolism arterial
+embolism arterial (limb)
+embolism limb
+embolism venous
+embolus
+embolus leg
+emotional disorder
+emotional distress
+emotional disturbance nos
+emotional poverty
+emotional problems
+emphysema
+emprosthotonus
+enanthema
+encephalitis
+encephalitis cytomegalovirus
+encephalitis viral
+encephalocele
+encephalopathy
+encephalopathy acute
+end stage aids
+end stage liver disease
+endocardial fibrosis
+endocarditis
+endocrine disorder
+endocrine neoplasms malignant and unspecified
+endometrial adenocarcinoma
+endometrial cancer
+endometrial disorder
+endometrial hyperplasia
+endometrial hypertrophy
+endometrial neoplasm
+endometrial neoplasm malignant
+endometrial thickening
+endometriosis
+endometritis
+endophthalmitis
+endotracheal intubation complication
+endotracheal tube obstruction
+energy increased
+enlarged clitoris
+enlargement abdomen
+enophthalmos
+enteritis
+enterobacter sepsis
+enterobiasis
+enterococcal bacteraemia
+enterococcal infection
+enterocolitis
+enterocolitis haemorrhagic
+enterocolitis infectious
+enterocutaneous fistula
+enuresis
+enzyme abnormality
+enzyme induction
+eosinopenia
+eosinophil count abnormal
+eosinophil count increased
+eosinophilia
+eosinophilic cystitis
+eosinophilic myocarditis
+eosinophilic pneumonia
+eosinophilic pustular folliculitis
+eosinophiluria
+ephelides
+epicondylitis
+epidermal and dermal conditions
+epidermal growth factor receptor decreased
+epidermal naevus
+epidermal necrosis
+epidermolysis
+epidermolysis bullosa
+epididymal tenderness
+epididymitis
+epididymo-orchitis
+epidural haemorrhage
+epidural lipomatosis
+epigastric discomfort
+epigastric distress
+epigastric fullness
+epigastric pain
+epigastric pain not food-related
+epiglottitis
+epilepsy
+epilepsy aggravated
+epiphyses premature fusion
+epiphysiolysis
+episcleritis
+epistaxis
+epithelial cells urine
+epstein-barr virus infection
+equilibrium loss
+erectile dysfunction
+erection increased
+erection prolonged
+ergot poisoning
+erosive oesophagitis
+eructation
+eruption
+eruption lichenoid
+eruptive xanthoma
+erysipelas
+erythema
+erythema annulare
+erythema annulare centrifugum
+erythema facial
+erythema infectiosum
+erythema multiforme
+erythema multiforme minor
+erythema nodosum
+erythema of eyelid
+erythema periorbital
+erythrasma
+erythrocytosis
+erythrodermic psoriasis
+erythroleukaemia
+erythromelalgia
+erythropenia
+erythropoiesis abnormal
+erythropsia
+erythrosis
+eschar
+escherichia bacteraemia
+escherichia sepsis
+esophageal erosions
+essential hypertension
+essential thrombocythaemia
+essential tremor
+euphoric mood
+eustachian tube disorder
+euthyroid goiter
+evans syndrome
+exacerbation of acne
+exacerbation of asthma
+exacerbation of hot flushes
+excessive daytime sleepiness
+excessive flatulence
+excessive granulation tissue
+excessive thirst
+excitability
+excitation cerebral
+excitement
+excoriation
+exencephaly
+exfoliative conditions
+exfoliative rash
+exhaustion
+exomphalos
+exophthalmos
+exostosis
+explosive personality disorder
+exposure to poisonous plant
+exposure to toxic agent
+expressive language disorder
+extensor plantar response
+external ear disorder
+external ophthalmoplegia
+extradural abscess
+extranodal nk/t-cell lymphoma, nasal type
+extrapulmonary pneumocystosis
+extrapyramidal disorder
+extrapyramidal symptoms
+extraskeletal ossification
+extrasystoles
+extravasation
+extremity contracture
+extremity necrosis
+eye allergy
+eye bleeding
+eye burns
+eye discharge
+eye disorder
+eye haemorrhage
+eye infection
+eye infection viral
+eye injury
+eye irritation
+eye movement disorder
+eye naevus
+eye oedema
+eye pain
+eye penetration
+eye pruritus
+eye redness
+eye rolling
+eye swelling
+eye ulcer
+eyebrow loss of
+eyelash darkening
+eyelash discolouration
+eyelash hyperpigmentation
+eyelash thickening
+eyelid bleeding
+eyelid disorder
+eyelid exfoliation
+eyelid function disorder
+eyelid infection
+eyelid irritation
+eyelid margin crusting
+eyelid oedema
+eyelid pain
+eyelid ptosis
+eyelid retraction
+eyelids pruritus
+face injury
+face oedema
+facial bones fracture
+facial neuralgia
+facial pain
+facial paralysis
+facial paresis
+facial paresthesia
+facial rash
+facial spasm
+facial wasting
+factor i deficiency
+factor ii deficiency
+factor viii deficiency
+factor xi deficiency
+faecal incontinence
+faecal occult blood positive
+faecalith
+faecaloma
+faeces discoloured
+faeces hard
+failed induction of labour
+failure to thrive
+fall
+fallopian tube cyst
+fallot's tetralogy
+familial tremor
+family stress
+fanconi syndrome
+fanconi syndrome acquired
+fasciculation
+fasciitis
+fasting
+fasting blood glucose increased
+fasting hyperglycaemia
+fat atrophy
+fat embolism
+fat intolerance
+fat necrosis
+fat redistribution
+fat tissue increased
+fatal outcomes
+fatigability
+fatigue
+fatigue aggravated
+fear
+febrile bone marrow aplasia
+febrile convulsion
+febrile disorders
+febrile neutropenia
+feces bloodstained
+feeling abnormal
+feeling cold
+feeling drunk
+feeling hot
+feeling hot and cold
+feeling jittery
+feeling of body temperature change
+feeling of despair
+feeling of relaxation
+feeling of residual urine
+feeling sad
+feeling sick
+feeling strange
+feeling tense
+feelings of worthlessness
+felt faint
+female orgasmic disorder
+female reproductive neoplasm
+female sexual arousal disorder
+female sexual dysfunction
+feminisation acquired
+feminization
+femoral artery thrombosis
+femoral neck fracture
+femur fracture
+femur fracture subtrochanteric
+femur shaft fracture
+fertility female decreased
+fertility male decreased
+fertilization
+festinating gait
+fever chills
+fever neonatal
+fever of unknown origin
+fibrillation atrial aggravated
+fibrinogen decreased
+fibroadenoma of breast
+fibroadenosis of breast
+fibrocystic breast disease
+fibrocystic disease
+fibroma
+fibromyalgia
+fibrosis
+finger deformity
+fistula
+fixed drug eruption
+fixed eruption
+flank pain
+flat affect
+flatulence
+flight of ideas
+floating feeling
+floppy infant
+floppy iris syndrome
+flu symptoms
+fluid and electrolyte imbalance
+fluid imbalance
+fluid intake increased
+fluid intake reduced
+fluid loss
+fluid overload
+fluid retention
+fluoride increased
+fluorosis
+flushing
+focal segmental glomerulosclerosis
+foetal acidosis
+foetal alcohol syndrome
+foetal anticonvulsant syndrome
+foetal chromosome abnormality
+foetal damage
+foetal death
+foetal disorder
+foetal distress syndrome
+foetal heart rate
+foetor hepaticus
+folate deficiency
+follicular conjunctivitis
+folliculitis
+fontanelle bulging
+food allergy
+food aversion
+food craving
+food interaction
+food intolerance
+food poisoning
+foot and mouth disease
+foot edema
+foot fracture
+foot infection fungal nos
+foot pain
+footdrop
+foramen ovale patent
+forced expiratory volume decreased
+foreign body
+foreign body in eye
+foreign body sensation in eyes
+forgetfulness
+formication
+found dead
+found dead (cause undetermined)
+fraction of inspired oxygen
+fracture
+frank hematuria
+free prostate-specific antigen increased
+freezing phenomenon
+frequent bowel movements
+frequent headaches
+friction rub
+frigidity
+frozen shoulder
+fructose intolerance
+frustration
+fullness abdominal
+function kidney decreased
+functional gastrointestinal disorder
+fundic gland polyp
+fungaemia
+fungal infection
+fungal peritonitis
+fungal rash
+fungal sepsis
+fungal skin infection
+fungal test positive
+fungus sputum test positive
+furuncle
+furunculosis
+fuzzy head
+gagging
+gait disturbance
+gait shuffling
+galactorrhoea
+gallbladder cancer
+gallbladder disorder
+gallbladder polyp
+gallbladder sludge
+gallop rhythm
+gamma globulins increased
+gammaglobulins decreased
+gamma-glutamyltransferase increased
+gangrene
+gangrenous cholecystitis
+gas
+gas gangrene
+gas in stomach
+gas pain
+gasping
+gastric atony
+gastric cancer
+gastric dilatation
+gastric disorder
+gastric erosions
+gastric flu
+gastric haemorrhage
+gastric irritation
+gastric perforation
+gastric ph decreased
+gastric polyps
+gastric ulcer
+gastric ulcer haemorrhage
+gastric ulcer helicobacter
+gastric ulcer perforation
+gastrinoma
+gastritis
+gastritis aggravated
+gastritis erosive
+gastritis haemorrhagic
+gastritis viral
+gastroduodenitis
+gastroenteritis
+gastroenteritis adenovirus
+gastroenteritis bacterial
+gastroenteritis salmonella
+gastroenteritis yersinia
+gastrointestinal candidiasis
+gastrointestinal carcinoma
+gastrointestinal cramps
+gastrointestinal discomfort
+gastrointestinal disorder
+gastrointestinal fistula
+gastrointestinal fullness
+gastrointestinal fungal infection
+gastrointestinal haemorrhage
+gastrointestinal hypermotility
+gastrointestinal hypomotility
+gastrointestinal infection
+gastrointestinal inflammation
+gastrointestinal inflammatory conditions
+gastrointestinal malformation
+gastrointestinal motility disorder
+gastrointestinal necrosis
+gastrointestinal neoplasm
+gastrointestinal neoplasm malignant
+gastrointestinal obstruction
+gastrointestinal pain
+gastrointestinal perforation
+gastrointestinal signs and symptoms
+gastrointestinal signs and symptoms nec
+gastrointestinal sounds abnormal
+gastrointestinal stoma complication
+gastrointestinal stromal tumour
+gastrointestinal symptom nos
+gastrointestinal toxicity
+gastrointestinal tract irritation
+gastrointestinal ulcer
+gastrointestinal ulcer haemorrhage
+gastrointestinal ulcer perforation
+gastrooesophageal reflux disease
+gastrooesophageal sphincter insufficiency
+gastrooesophagitis
+gaze palsy
+general discomfort
+general disorders and administration site conditions
+general physical health deterioration
+general symptom
+generalised anxiety disorder
+generalised erythema
+generalised oedema
+generalised spasm
+generalized aching
+generalized flushing
+generalized lymphadenopathy
+generalized macular rash
+generalized urticaria
+genetic polymorphism
+genital burning sensation
+genital candidiasis
+genital discharge
+genital discomfort
+genital disorder female
+genital disorder male
+genital haemorrhage
+genital herpes
+genital hypoaesthesia
+genital infection
+genital infection fungal
+genital infection male
+genital injury
+genital irritation
+genital itching female
+genital itching male
+genital lesion
+genital pain
+genital pain male
+genital rash
+genital swelling
+genital ulceration
+genitourinary chlamydia infection
+genitourinary tract infection
+genitourinary tract neoplasm
+genu valgum
+gestational diabetes
+gestational hypertension
+gilbert's syndrome
+gingival abscess
+gingival bleeding
+gingival blister
+gingival disorder
+gingival erythema
+gingival hyperplasia
+gingival hypertrophy
+gingival infection
+gingival oedema
+gingival pain
+gingival recession
+gingival swelling
+gingival ulceration
+gingivitis
+gingivostomatitis
+glabellar reflex abnormal
+glaucoma
+glaucoma both eyes
+glioblastoma
+glioblastoma multiforme
+glioma
+globulins decreased
+globus hystericus
+glomerular filtration rate decreased
+glomerulitis
+glomerulonephritis
+glomerulonephritis membranoproliferative
+glomerulonephritis membranous
+glomerulonephritis minimal lesion
+glomerulonephritis rapidly progressive
+glomerulonephropathy
+glossitis
+glossodynia
+glottic edema
+glucocorticoids decreased
+glucose decreased
+glucose increased
+glucose low
+glucose tolerance abnormal
+glucose tolerance decreased
+glucose tolerance impaired
+glucose urine increased
+glucose-6-phosphate dehydrogenase deficiency
+glycosuria
+glycosylated haemoglobin decreased
+glycosylated haemoglobin increased
+goiter nodular
+goitre
+gonadotropic luteinizing hormone increased
+gonadotropins nos low
+gonorrhoea
+goodpasture's syndrome
+gout
+gout acute
+gout attack
+gout flare
+gouty arthritis
+gouty tophus
+graft complication
+graft dysfunction
+graft loss
+graft thrombosis
+graft versus host disease
+graft versus host reaction
+gram-negative bacterial infection nos
+grand mal convulsion
+granulocytosis
+granuloma
+granuloma annulare
+granuloma skin
+granulomatosis with polyangiitis
+granulomatous liver disease
+gravitational oedema
+grey syndrome neonatal
+grimacing
+gritty feeling in eyes
+groin pain
+ground glass appearance
+growth accelerated
+growth hormone overproduction
+growth of eyelashes
+growth retardation
+guillain-barre syndrome
+gynaecomastia
+gynecological-related pain
+gynecomastia aggravated
+haemangioma
+haemangioma congenital
+haemarthrosis
+haematemesis
+haematochezia
+haematocrit decreased
+haematocrit increased
+haematological malignancy
+haematology test abnormal
+haematoma
+haematospermia
+haematotoxicity
+haematuria
+haemobilia
+haemochromatosis
+haemodynamic instability
+haemoglobin
+haemoglobin abnormal
+haemoglobin decreased
+haemoglobin increased
+haemoglobin normal
+haemoglobinaemia
+haemoglobinuria
+haemolysis
+haemolytic anaemia
+haemolytic uraemic syndrome
+haemophilia
+haemoptysis
+haemorrhage
+haemorrhage in pregnancy
+haemorrhage intracranial
+haemorrhage subcutaneous
+haemorrhage urinary tract
+haemorrhagic anaemia
+haemorrhagic disorder
+haemorrhagic erosive gastritis
+haemorrhagic ovarian cyst
+haemorrhagic stroke
+haemorrhagic urticaria
+haemorrhoidal haemorrhage
+haemorrhoids
+haemothorax
+hair colour changes
+hair discoloration
+hair disorder
+hair growth abnormal
+hair growth increased
+hair texture abnormal
+hallucination
+hallucination, auditory
+hallucination, tactile
+hallucination, visual
+hallucinations, mixed
+halo vision
+hamartoma
+hamman-rich syndrome
+hand and foot syndrome secondary to sickle cell anaemia
+hand dermatitis
+hand fracture
+hand pain
+hand rash
+hand swelling
+hands weakness of
+hangover
+haptoglobin increased
+hcv coinfection
+hdl cholesterol increased
+head discomfort
+head injury
+head lag abnormal
+head pressure
+head titubation
+headache
+headache aggravated
+headache dull
+headache fullness
+headache occurring
+hearing impaired
+heart alternation
+heart disease congenital
+heart failure signs and symptoms
+heart malformation
+heart racing
+heart rate abnormal
+heart rate irregular
+heart sounds abnormal
+heartburn
+heat exhaustion
+heat intolerance
+heat stroke
+heaviness in limbs
+heaviness of head
+helicobacter gastritis
+helicobacter infection
+hellp syndrome
+hemangioma acquired
+hematuria aggravated
+hemianopia
+hemimelia
+hemiparesis
+hemiparesis (left)
+hemiplegia
+hemiplegia transient
+hemolytic reaction
+hemophagocytic lymphohistiocytosis
+hemorrhage abnormal
+hemorrhage of colon
+hemorrhage symptom
+hemorrhagic colitis
+hemorrhoids aggravated
+henoch-schonlein purpura
+heparin-induced thrombocytopenia
+hepatic adenoma
+hepatic angiosarcoma
+hepatic artery thrombosis
+hepatic atrophy
+hepatic cancer
+hepatic cancer metastatic
+hepatic cirrhosis
+hepatic congestion
+hepatic cyst
+hepatic encephalopathy
+hepatic enzyme abnormal
+hepatic enzyme decreased
+hepatic enzyme increased
+hepatic failure
+hepatic fibrosis
+hepatic function abnormal
+hepatic granuloma
+hepatic haemorrhage
+hepatic impairment
+hepatic infiltration eosinophilic
+hepatic insufficiency
+hepatic lymphoma
+hepatic necrosis
+hepatic neoplasm
+hepatic pain
+hepatic steatosis
+hepatic vein occlusion
+hepatic vein thrombosis
+hepatitis
+hepatitis a
+hepatitis acute
+hepatitis aggravated
+hepatitis alcoholic
+hepatitis b
+hepatitis b e antigen positive
+hepatitis b reactivation
+hepatitis b surface antigen positive
+hepatitis c
+hepatitis c antibody positive
+hepatitis cholestatic
+hepatitis chronic active
+hepatitis f
+hepatitis fulminant
+hepatitis granulomatous
+hepatitis symptom
+hepatitis toxic
+hepatitis viral
+hepatobiliary disease
+hepatoblastoma
+hepatocellular adenoma
+hepatocellular carcinoma
+hepatocellular injury
+hepatomegaly
+hepatorenal syndrome
+hepatosplenic t-cell lymphoma
+hepatosplenomegaly
+hepatotoxicity
+hereditary angioedema
+hernia
+hernia congenital
+hernia pain
+herpangina
+herpes dermatitis
+herpes labialis
+herpes nos
+herpes simplex
+herpes simplex dermatitis
+herpes simplex encephalitis
+herpes simplex hepatitis
+herpes virus infection
+herpes zoster
+heterozygous familial hypercholesterolemia
+hiatus hernia
+hiccups
+hidradenitis
+high cholesterol
+high density lipoprotein decreased
+high density lipoprotein increased
+high frequency deafness
+high turnover osteopathy
+high-pitched crying
+hip dislocation
+hip dysplasia
+hip fracture
+hirsutism
+histiocytosis
+histiocytosis haematophagic
+histiocytosis x of lung
+histoplasmosis
+hiv associated nephropathy
+hoarseness
+hodgkin's disease
+hodgkin's disease lymphocyte depletion type stage unspecified
+hodgkin's disease lymphocyte predominance type stage unspecified
+hoigne's syndrome
+homicidal ideation
+homocystinuria
+homozygous familial hypercholesterolaemia
+hordeolum
+hormone level abnormal
+hormone-dependent prostate cancer
+horner's syndrome
+hostility
+hot dry skin
+hot flush
+house dust allergy
+human herpesvirus 6 infection
+humerus fracture
+hunger
+hunger abnormal
+hydatidiform mole
+hydrocele
+hydrocephalus
+hydrocephalus acquired
+hydrocortisone decreased
+hydrometra
+hydronephrosis
+hydrops foetalis
+hydrothorax
+hydroureter
+hyperacusis
+hyperadrenocorticism
+hyperaemia
+hyperaesthesia
+hyperalbuminaemia
+hyperammonaemia
+hyperamylasaemia
+hyperbilirubinaemia
+hyperbilirubinemia aggravated
+hypercalcaemia
+hypercalcaemia of malignancy
+hypercalciuria
+hypercapnia
+hyperchloraemia
+hyperchlorhydria
+hypercholesterolaemia
+hypercholesterolemia aggravated
+hypercoagulation
+hyperemesis
+hyperemesis gravidarum
+hypereosinophilia
+hyperexcitation
+hyperfibrinogenaemia
+hypergammaglobulinaemia
+hyperglycaemia
+hyperhemoglobinemia
+hyperhidrosis
+hyperinsulinism
+hyperkalaemia
+hyperkeratosis
+hyperkinesia
+hyperlactacidaemia
+hyperlipidaemia
+hypermagnesaemia
+hypermethioninaemia
+hypernatraemia
+hyperostosis
+hyperparathyroidism
+hyperparathyroidism primary
+hyperparathyroidism secondary
+hyperpathia
+hyperphagia
+hyperphosphataemia
+hyperplasia
+hyperplasia erythroid
+hyperpnea
+hyperprolactinaemia
+hyperproteinaemia
+hyperpyrexia
+hyperreflexia
+hypersensation skin
+hypersensitive syndrome
+hypersensitivity
+hypersexuality
+hypersomnia
+hypersplenism
+hypertension
+hypertension paroxysmal
+hypertension worsened
+hypertensive
+hypertensive crisis
+hypertensive encephalopathy
+hypertensive episode
+hypertensive nephropathy
+hyperthyroidism
+hypertonia
+hypertonic bladder
+hypertonicity
+hypertransaminasaemia
+hypertrichosis
+hypertriglyceridaemia
+hypertrophic cardiomyopathy
+hypertrophic osteoarthropathy
+hypertrophic scar
+hypertrophy
+hypertrophy of breast
+hyperuricaemia
+hyperuricosuria
+hyperventilation
+hypervigilance
+hyperviscosity syndrome
+hypervitaminosis a
+hypervitaminosis d
+hyphaema
+hypnagogic hallucination
+hypnopompic hallucination
+hypoaesthesia
+hypoaesthesia eye
+hypoaesthesia facial
+hypoaesthesia oral
+hypoalbuminaemia
+hypoaldosteronism
+hypoalgesia
+hypocalcaemia
+hypocalcemic tetany
+hypocalciuria
+hypocapnia
+hypochloraemia
+hypocholesterolaemia
+hypochondriasis
+hypochromasia
+hypochromic anaemia
+hypochromic microcytic anemia
+hypoesthesia tongue
+hypofibrinogenaemia
+hypogammaglobulinaemia
+hypogeusia
+hypoglycaemia
+hypoglycaemia neonatal
+hypoglycaemic coma
+hypoglycaemic episode
+hypoglycaemic seizure
+hypoglycaemic unconsciousness
+hypoglycemic reaction
+hypogonadism
+hypogonadism male
+hypohidrosis
+hypokalaemia
+hypokinesia
+hypolipidaemia
+hypomagnesaemia
+hypomania
+hypomenorrhoea
+hyponatraemia
+hyponatraemic
+hypoparathyroidism
+hypoperfusion
+hypophagia
+hypophosphataemia
+hypophosphataemic rickets
+hypopituitarism
+hypoplasia enamel
+hypoplasia erythroid
+hypoplastic anaemia
+hypopnoea
+hypoproteinaemia
+hypoprothrombinaemia
+hypopyon
+hyporeflexia
+hyposmia
+hyposthenuria
+hypotension
+hypotension asymptomatic
+hypotension orthostatic symptomatic
+hypotension symptomatic
+hypotensive
+hypothermia
+hypothrombinaemia
+hypothyroidism
+hypotonia
+hypotonia neonatal
+hypotonic-hyporesponsive episode
+hypotony of eye
+hypotrichosis
+hypouricaemia
+hypoventilation
+hypovitaminosis
+hypovolaemia
+hypovolaemic shock
+hypoxemia
+hypoxia
+hypoxic-ischaemic encephalopathy
+hysteria
+ichthyosis
+ichthyosis acquired
+idiopathic hypertrophic subaortic stenosis
+idiopathic pneumonia syndrome
+idiopathic pulmonary fibrosis
+idiopathic thrombocytopenia
+idiopathic thrombocytopenic purpura
+idiopathic torsion dystonia
+idiosyncratic drug reaction
+iiird nerve paralysis
+ileal perforation
+ileal ulcer
+ileitis
+ileitis regional
+ileus
+ileus paralytic
+ill-defined disorder
+illusion
+immediate post-injection reaction
+immobile
+immune complex reaction
+immune status
+immune system disorder
+immune-mediated necrotising myopathy
+immunocompromised
+immunodeficiency
+immunoglobulin g low
+immunoglobulins decreased
+immunoglobulins increased
+immunology test
+immunosuppressant drug level increased
+immunosuppression
+impaired fasting glucose
+impaired gastric emptying
+impaired healing
+impairment of attention
+impatience
+imperforate hymen
+impetigo
+implant breakage
+implant expulsion
+implant infection
+implant site pain
+implant site reaction
+implantation complication
+impulse-control disorder
+inappropriate affect
+inappropriate antidiuretic hormone secretion
+incessant ventricular tachycardia
+incision site complication
+incision site haematoma
+incision site haemorrhage
+incision site oedema
+incision site pain
+incisional hernia
+incoherent
+incomplete bladder emptying
+incomplete precocious puberty
+incontinence
+increased activity
+increased agitation
+increased appetite
+increased bronchial secretion
+increased effect
+increased insulin requirement
+increased prolactin level
+increased skin sensitivity
+increased tendency to bruise
+increased thirst
+increased upper airway secretion
+increased viscosity of bronchial secretion
+induration
+infarction
+infarction mesenteric
+infected bites
+infected cyst
+infection
+infection mixed
+infection parasitic
+infection pseudomonas aeruginosa
+infection reactivation
+infection susceptibility increased
+infectious meningitis
+infectious mononucleosis
+infectious peritonitis
+infectious pneumonitis
+infective myositis
+infective tenosynovitis
+inferior myocardial infarction
+inferior vena cava syndrome
+infertility
+infertility female
+infertility male
+infestation
+infestation nos
+inflammation
+inflammation localised
+inflammatory bowel disease
+inflammatory swelling
+inflicted injury
+influenza
+influenza like illness
+influenza viral infections
+influenza-like symptoms
+infrequent bowel movements
+infusion related pain
+infusion related reaction
+infusion site burning
+infusion site erythema
+infusion site extravasation
+infusion site hypersensitivity
+infusion site induration
+infusion site infection
+infusion site inflammation
+infusion site irritation
+infusion site oedema
+infusion site pain
+infusion site paraesthesia
+infusion site phlebitis
+infusion site pruritus
+infusion site rash
+infusion site reaction
+infusion site reactions
+infusion site swelling
+infusion site thrombophlebitis
+infusion site thrombosis
+infusion site urticaria
+infusion site warmth
+ingrowing nail
+ingrown hair
+inguinal hernia
+initial insomnia
+injection site abscess
+injection site abscess sterile
+injection site atrophy
+injection site bruising
+injection site burning
+injection site cellulitis
+injection site coldness
+injection site cyst
+injection site dermatitis
+injection site discolouration
+injection site discomfort
+injection site dryness
+injection site erythema
+injection site exfoliation
+injection site extravasation
+injection site fibrosis
+injection site granuloma
+injection site haematoma
+injection site haemorrhage
+injection site hypersensitivity
+injection site hypertrophy
+injection site induration
+injection site infection
+injection site inflammation
+injection site injury
+injection site irritation
+injection site joint pain
+injection site mass
+injection site necrosis
+injection site nodule
+injection site pain
+injection site pallor
+injection site paraesthesia
+injection site phlebitis
+injection site pigmentation changes
+injection site pruritus
+injection site reaction
+injection site stinging
+injection site swelling
+injection site tenderness
+injection site thrombosis
+injection site ulcer
+injection site urticaria
+injection site vesicles
+injection site warmth
+injury
+injury asphyxiation
+injury associated with device
+inner ear disorder
+inner ear infection
+insect bite nos
+insomnia
+insomnia exacerbated
+insomnia nec
+instability vasomotor
+instillation site irritation
+instillation site pain
+insulin autoimmune syndrome
+insulin c-peptide decreased
+insulin c-peptide increased
+insulin resistance
+insulinoma
+intentional drug misuse
+intentional injury
+intentional misuse
+intentional self-injury
+intermittent claudication
+intermittent explosive disorder
+intermittent fever
+intermittent headache
+international normalised ratio abnormal
+international normalised ratio decreased
+international normalised ratio increased
+interstitial lung disease
+interstitial pneumonia
+intertrigo
+intertrigo candida
+intervertebral disc degeneration
+intervertebral disc disorder
+intervertebral disc protrusion
+intervertebral discitis
+intestinal cramps
+intestinal diaphragm disease
+intestinal functional disorder
+intestinal haemorrhage
+intestinal hypomotility
+intestinal infarction
+intestinal infections
+intestinal ischaemia
+intestinal mass
+intestinal necrosis
+intestinal obstruction
+intestinal perforation
+intestinal pseudo-obstruction
+intestinal stenosis
+intestinal stoma complication
+intestinal ulcer
+intoxication
+intra-abdominal haematoma
+intra-abdominal haemorrhage
+intracardiac thrombus
+intracranial aneurysm
+intracranial pressure increased
+intracranial venous sinus thrombosis
+intractable pain
+intranasal hypoaesthesia
+intraocular pressure increased
+intraoperative floppy iris syndrome
+intraoperative hemorrhage
+intraspinal bleeding
+intravascular large b-cell lymphoma
+intraventricular haemorrhage
+intussusception
+iodism
+iridocyclitis
+iris adhesions
+iris disorder
+iris hyperpigmentation
+iritis
+iron binding capacity total
+iron deficiency
+iron deficiency anaemia
+iron overload
+irreversible renal failure
+irritability
+irritable bowel syndrome
+irritation gum
+ischaemia
+ischaemic cardiomyopathy
+ischaemic cerebral infarction
+ischaemic coronary artery disorders
+ischaemic hepatitis
+ischaemic neuropathy
+ischaemic stroke
+ischial neuralgia
+itch burning
+itchy scalp
+iud complication
+iud expelled
+jarisch-herxheimer reaction
+jaundice
+jaundice cholestatic
+jaundice hepatocellular
+jaundice neonatal
+jaw disorder
+jaw stiffness
+jerky movement nos
+jessner's lymphocytic infiltration
+joint contracture
+joint crepitation
+joint dislocation
+joint effusion
+joint hyperextension
+joint injury
+joint instability
+joint lock
+joint range of motion decreased
+joint related signs and symptoms
+joint sprain
+joint stiffness
+joint swelling
+judgement impaired
+junctional bradycardia
+junctional tachycardia
+juvenile idiopathic arthritis
+kaposi's sarcoma
+kaposi's varicelliform eruption
+kearns-sayre syndrome
+keloid scar
+keratic precipitates
+keratitis
+keratitis sicca
+keratoacanthoma
+keratoconjunctivitis
+keratoconjunctivitis sicca
+keratoconus
+keratopathy
+keratosis
+keratosis pilaris
+ketoacidosis
+ketogenic diet
+ketonemia
+ketonuria
+ketosis
+kidney fibrosis
+kidney function abnormal
+kidney infection
+klebsiella sepsis
+klinefelter's syndrome
+knee deformity
+knee pain
+knee sprain
+koebner phenomenon
+korsakoff's psychosis (non-alcoholic)
+kounis syndrome
+kyphosis
+labile blood pressure
+labile hypertension
+laboratory test abnormal
+labored breathing
+labyrinthine disorder
+labyrinthitis
+laceration
+lack of drug effect
+lack of spontaneous speech
+lacrimal disorder
+lacrimal duct obstruction
+lacrimal gland disorder
+lacrimal structural disorder
+lacrimation
+lacrimation abnormal nos
+lacrimation decreased
+lacrimation increased
+lactase deficiency
+lactate increased
+lactation female
+lactic acidosis
+lactic acidosis syndrome
+lactic dehydrogenase activity increased
+lactose intolerance
+lacunar infarction
+langerhans' cell histiocytosis
+large intestinal haemorrhage
+large intestinal obstruction
+large intestinal ulcer
+large intestine perforation
+large intestine polyp
+laryngeal cancer
+laryngeal disorder
+laryngeal dystonia
+laryngeal haemorrhage
+laryngeal neoplasm
+laryngeal oedema
+laryngeal pain
+laryngitis
+laryngopharyngeal dysesthesia
+laryngopharyngitis
+laryngospasm
+laryngotracheal oedema
+lassitude
+latent tetany
+latent tuberculosis
+latex allergy
+learning disability
+learning disorder
+left ventricular dysfunction
+left ventricular ejection fraction decreased
+left ventricular failure
+left ventricular hypertrophy
+leg edema
+leg pain
+leg ulcer
+leiomyoma
+lenticular opacities
+lenticular pigmentation
+lentigo
+leriche syndrome
+lethargy
+leukaemia
+leukaemia cutis
+leukaemoid reaction
+leukemia secondary
+leukocytoclastic vasculitis
+leukocytosis
+leukoderma
+leukoencephalopathy
+leukonychia
+leukopenia
+leukoplakia
+leukoplakia oral
+leukorrhea
+leukostasis
+lhermitte's sign
+libido decreased
+libido disorder
+libido increased
+lichen planus
+lichenification
+lichenoid keratosis
+lid sulcus deepened
+ligament injury
+ligament sprain
+light anaesthesia
+lightheadedness
+limb deformity
+limb discomfort
+limb injury
+limb malformation
+limb paresis
+limb reduction defect
+linear iga disease
+lip blister
+lip burning sensation of
+lip dry
+lip haemorrhage
+lip oedema
+lip pain
+lip swelling
+lip ulceration
+lipase abnormal
+lipase increased
+lipid metabolism disorder
+lipidosis
+lipids abnormal
+lipids increased
+lipoatrophy
+lipodystrophy
+lipodystrophy acquired
+lipoedema
+lipohypertrophy
+lipoid nephrosis
+lipoma
+lipomatosis
+listeriosis
+lithium poisoning
+lithium toxicity
+livedo reticularis
+liver abscess
+liver disorder
+liver fatty
+liver fatty deposition
+liver function test abnormal
+liver function test normal
+liver injury
+liver nodule
+liver tenderness
+lividity
+lobar pneumonia
+local reaction
+local swelling
+local throat irritation
+localised infection
+localised intraabdominal fluid collection
+localised numbness
+localised oedema
+localised skin reaction
+localized erythema
+localized exfoliation
+localized osteoarthritis
+localized rash
+lockjaw
+loeffler's syndrome
+logorrhoea
+loin pain
+long qt syndrome
+long qt syndrome congenital
+long-term memory loss
+loose stools
+lordosis
+loss of confidence
+loss of consciousness
+loss of control of legs
+loss of libido
+loss of proprioception
+loss of skin markings
+low back pain
+low birth weight baby
+low density lipoprotein increased
+low ph
+low set ears
+lower gastrointestinal haemorrhage
+lower limb fracture
+lower respiratory tract infection
+lower urinary tract symptoms
+lumbar disc lesion
+lumbar puncture headache
+lumbar radiculopathy
+lung abscess
+lung adenocarcinoma stage i
+lung cancer metastatic
+lung disorder
+lung fibrosis interstitial
+lung infection
+lung infiltration
+lung neoplasm
+lung neoplasm malignant
+lung nodule
+lupus erythematosus
+lupus-like syndrome
+lyme disease
+lymph node abscess
+lymph node pain
+lymph node tenderness
+lymphadenitis
+lymphadenopathy
+lymphadenopathy axillary
+lymphadenopathy cervical
+lymphadenopathy inguinal
+lymphangioleiomyomatosis
+lymphangitis
+lymphatic disorder
+lymphocele
+lymphocyte abnormal
+lymphocyte count abnormal
+lymphocyte count decreased
+lymphocyte count increased
+lymphocyte transformation test positive
+lymphocytic colitis
+lymphocytic infiltration
+lymphocytic leukaemia
+lymphocytoma cutis
+lymphocytosis
+lymphoedema
+lymphoma
+lymphoma cutis
+lymphopenia
+lymphoproliferative disorder
+lymphorrhoea
+lymphostasis
+macular degeneration
+macular fibrosis
+macular hole
+macular oedema
+macular pigmentation
+macule
+maculopathy
+madarosis
+major bleed
+major depression
+malabsorption
+malaise
+malaise and fatigue
+malaria
+male orgasmic disorder
+male sexual dysfunction
+malformation venous
+malignant histiocytosis
+malignant hypertension
+malignant melanoma
+malignant mesenchymoma
+malignant neoplasm of pancreas
+malignant neoplasm of renal pelvis
+malignant neoplasm progression
+malignant ovarian cyst
+malignant solid tumour
+malignant syndrome nos
+malignant transformation
+mallory-weiss syndrome
+malnutrition
+mammogram abnormal
+mania
+manic episode
+manic psychosis
+mantle cell lymphoma
+markedly reduced dietary intake
+marrow hyperplasia
+masked facies
+mass
+mastication disorder
+mastitis
+mastitis acute female
+mastitis male
+mastocytosis
+mastoiditis
+mean arterial pressure
+mean arterial pressure decreased
+mean cell volume increased
+mean platelet volume decreased
+measles
+mechanical complication of implant
+mechanical urticaria
+mediastinal disorder
+mediastinitis
+mediastinum neoplasm
+medical device complication
+medical device discomfort
+medication overuse headache
+medication residue
+medication residue present
+megacolon
+megacolon toxic
+meibomianitis
+melaena
+melancholia
+melanocytic naevus
+melanoderma
+melanoma skin
+melanonychia
+melanosis
+memory impairment
+memory loss
+menarche
+mendelson's syndrome
+meniere's disease
+meniere's disease aggravated
+meningioma
+meningioma benign
+meningism
+meningitis
+meningitis aseptic
+meningitis bacterial
+meningitis chemical
+meningitis cryptococcal
+meningitis viral
+meningocele
+meningoencephalitis
+meningoencephalitis herpetic
+meningomyelocele
+menometrorrhagia
+menopausal disorder
+menopausal symptoms
+menopause
+menorrhagia
+menstrual cycle abnormal
+menstrual cycle prolonged
+menstrual disorder
+menstruation delayed
+menstruation irregular
+mental aberration
+mental deficiency
+mental disability
+mental disorder
+mental disorder due to a general medical condition
+mental impairment disorders
+mental retardation
+mental state abnormal
+mental status changes
+mesenteric artery thrombosis
+mesenteric ischemia
+mesenteric occlusion
+mesenteric vascular insufficiency
+mesothelioma
+metabolic acidosis
+metabolic alkalosis
+metabolic disorder
+metabolic encephalopathy
+metabolic syndrome
+metal poisoning
+metaphyseal dysplasia
+metaplasia
+metastases to central nervous system
+metastases to liver
+metastases to peritoneum
+metastases to spine
+metastasis
+metastatic carcinoma
+metastatic disease
+metastatic malignant melanoma
+metastatic melanoma
+metastatic neoplasm
+metastatic pain
+metastatic renal cell carcinoma
+methaemoglobinaemia
+methicillin-resistant staphylococcus aureus infection
+metrorrhagia
+mg reduced
+mg++ increased
+microalbuminuria
+microangiopathic haemolytic anaemia
+microangiopathy
+microcephaly
+microcytic
+microcytic anaemia
+microcytosis
+microembolism
+microhemorrhage
+microscopic hematuria
+microsomia
+micturition burning
+micturition disorder
+micturition urgency
+middle ear effusion
+middle insomnia
+midsystolic click
+migraine
+migraine aggravated
+migraine without aura
+migration of implant
+milia
+miliaria
+miliaria rubra
+mineralocorticoid deficiency
+minor bleed
+miosis
+mitochondrial toxicity
+mitral valve disease
+mitral valve incompetence
+mixed connective tissue disease
+mixed liver injury
+moaning
+mobility decreased
+molluscum contagiosum
+monarthritis
+moniliasis genital female
+monoclonal gammopathy
+monocyte count decreased
+monocyte count increased
+monocytosis
+monomorphic ventricular tachycardia
+mononeuritis
+mononeuropathy
+monoparesis
+monoplegia
+mood alteration nos
+mood alterations with depressive symptoms
+mood swings
+morbid dreams
+morbid thoughts
+morphoea
+mosquito bite
+motion sickness
+motor dysfunction
+motor neurone disease
+motor restlessness
+motor tic
+mouth haemorrhage
+mouth injury
+mouth irritation
+mouth ulceration
+movement disorder
+movements involuntary
+mucocutaneous candidiasis
+mucormycosis
+mucosal atrophy
+mucosal bleeding
+mucosal discolouration
+mucosal dryness
+mucosal erosion
+mucosal excoriation
+mucosal haemorrhage
+mucosal inflammation
+mucosal pigmentation
+mucosal swelling
+mucosal ulceration
+mucous membrane disorder
+mucous stools
+multifocal atrial tachycardia
+multifocal motor neuropathy
+multifocal ventricular tachycardia
+multi-organ failure
+multiparous
+multiple allergies
+multiple congenital abnormalities
+multiple fractures
+multiple pregnancy
+multiple sclerosis
+multiple sclerosis exacerbation
+multiple sclerosis relapse
+muscle atrophy
+muscle contractions involuntary
+muscle contracture
+muscle damage
+muscle enzyme increased
+muscle fatigue
+muscle fibrosis
+muscle haemorrhage
+muscle injury
+muscle mass
+muscle movement involuntary
+muscle necrosis
+muscle relaxant therapy
+muscle relaxation
+muscle rigidity
+muscle rupture
+muscle spasms
+muscle spasticity
+muscle stiffness
+muscle strain
+muscle swelling
+muscle tightness
+muscle tone disorder
+muscle tone flaccid
+muscle twitching
+muscular incoordination
+muscular ventricular septal defect
+muscular weakness
+musculoskeletal chest pain
+musculoskeletal deformity
+musculoskeletal discomfort
+musculoskeletal disorder
+musculoskeletal pain
+musculoskeletal stiffness
+mutism
+myalgia
+myasthenia
+myasthenia gravis
+myasthenia gravis-like syndrome
+myasthenic syndrome
+mycobacterial infection
+mycobacterium avium complex infection
+mycobacterium test
+mycosis fungoides
+mydriasis
+myelitis
+myelitis transverse
+myelodysplasia
+myelodysplastic syndrome
+myelodysplastic syndrome transformation
+myelofibrosis
+myeloid leukaemia
+myeloid metaplasia
+myeloproliferative disorder
+myelosuppression
+myocardial depression
+myocardial disorder
+myocardial haemorrhage
+myocardial hypertrophy
+myocardial infarction
+myocardial ischaemia
+myocardial necrosis
+myocardial reinfarction
+myocardial rupture
+myocarditis
+myoclonic epilepsy
+myoclonus
+myofascial pain syndrome
+myoglobin urine present
+myoglobinaemia
+myoglobinuria
+myopathy
+myopathy toxic
+myopericarditis
+myopia
+myopia transient
+myositis
+myotonia
+myringitis
+myxoedema
+n-acetylglutamate synthase deficiency
+nail abnormality nos
+nail bed infection
+nail bed tenderness
+nail changes
+nail discolouration
+nail discomfort
+nail disorder
+nail dystrophy
+nail hypertrophy
+nail infection
+nail longitudinal striations
+nail pigmentation
+nail ridging
+nail thinning
+nail toxicity
+narcolepsy
+nasal burning
+nasal congestion
+nasal discomfort
+nasal disorder
+nasal dryness
+nasal inflammation
+nasal irritation
+nasal itching
+nasal mucosal disorder
+nasal mucosal erythema
+nasal mucus blood tinged
+nasal obstruction
+nasal odour
+nasal oedema
+nasal pain
+nasal passage irritation
+nasal polyps
+nasal septum deviation
+nasal septum disorder
+nasal septum perforation
+nasal septum ulceration
+nasal sinus drainage
+nasal soreness
+nasal ulcer
+nasopharyngeal cancer
+nasopharyngeal carcinoma
+nasopharyngeal disorder
+nasopharyngitis
+nausea
+nausea aggravated
+nausea alone
+nausea postoperative
+neck injury
+neck oedema of
+neck pain
+neck stiffness
+neck swelling
+neck tightness
+necrolysis epidermal
+necrosis
+necrosis ischaemic
+necrotising colitis
+necrotising enterocolitis neonatal
+necrotising fasciitis
+necrotizing enterocolitis
+needle injury
+negativism
+neisseria infection
+neonatal and infancy disorder
+neonatal disorder
+neonatal hyponatraemia
+neonatal infection
+neonatal tachypnoea
+neoplasm
+neoplasm malignant
+neoplasm malignant aggravated
+neoplasm progression
+neoplasm prostate
+neoplasm recurrence
+neoplasm skin
+nephritic syndrome
+nephritis
+nephritis interstitial
+nephrocalcinosis
+nephrogenic diabetes insipidus
+nephrogenic systemic fibrosis
+nephrolithiasis
+nephropathy
+nephropathy toxic
+nephrosclerosis
+nephrosis
+nephrosis lower nephron
+nephrotic syndrome
+nephrotoxicity
+nerve compression
+nerve conduction studies abnormal
+nerve injury
+nerve paralysis
+nerve root lesion
+nervous system disorder
+nervous tremulousness
+nervousness
+netherton's syndrome
+nettle rash
+neural hearing loss
+neural tube defect
+neuralgia
+neuritis
+neuritis retrobulbar
+neurodermatitis
+neuroectodermal neoplasm
+neurofibroma
+neurofibromatosis
+neurogenic bladder
+neuroglycopenia
+neuroleptic malignant syndrome
+neurologic reaction
+neurological disorders nec
+neurological examination abnormal
+neurological impairment
+neurological symptom
+neuroma
+neuromuscular block prolonged
+neuromuscular toxicity
+neuromyopathy
+neuropathic arthropathy
+neuropathy
+neuropathy peripheral
+neurosis
+neurotoxicity
+neurotransmitter level altered
+neutropenia
+neutropenia aggravated
+neutropenic colitis
+neutropenic enterocolitis
+neutropenic infection
+neutropenic sepsis
+neutrophil count decreased
+neutrophil count increased
+neutrophil percentage increased
+neutrophilia
+neutrophilic dermatosis
+nevus
+nicotine dependence
+nicotine poisoning
+nicotinic acid deficiency
+nicotinic effects
+night blindness
+night cramps
+night sweats
+nightmare
+nipple disorder
+nipple pain
+nipple swelling
+nipple tenderness
+nitrogen balance negative
+nocardiosis
+nocturia
+nocturia aggravated
+nocturnal confusion
+nocturnal dyspnoea
+nocturnal emission
+nocturnal enuresis
+nodal arrhythmia
+nodal block
+nodal rhythm
+nodal tachycardia
+nodular regenerative hyperplasia
+nodule
+non-accidental injury
+non-cardiac chest pain
+non-cardiogenic pulmonary oedema
+nonconvulsive status epilepticus
+non-hodgkin's lymphoma
+noninfectious peritonitis
+non-q wave mi
+non-small cell lung cancer
+non-sustained ventricular tachycardia
+nontoxic goiter
+normochromic normocytic anaemia
+normocytic anemia
+nose infection nos
+nosocomial pneumonia
+npn increased
+nuchal rigidity
+numbness
+numbness facial
+numbness generalized
+numbness in fingers
+numbness in leg
+numbness lips
+numbness of limbs
+numbness of tongue
+nystagmus
+obesity
+obliterative bronchiolitis
+obnubilation
+obsessional neurosis
+obsessive rumination
+obsessive thoughts
+obsessive-compulsive disorder
+obsessive-compulsive personality disorder
+obstetric procedure complication
+obstipation
+obstruction
+obstructive airways disorder
+obstructive sleep apnea syndrome
+occipital headache
+occipital neuralgia
+occult blood positive
+occupational exposures
+ochronosis
+ocular discomfort
+ocular hyperaemia
+ocular hypertension
+ocular icterus
+ocular sensation disorders
+ocular stinging
+ocular surface disease
+ocular toxicity
+ocular vascular disorder
+oculogyration
+oculogyric crisis
+oculomucocutaneous syndrome
+oculorespiratory syndrome
+oculo-respiratory syndrome
+odynophagia
+oedema
+oedema aggravated
+oedema auricular
+oedema due to cardiac disease
+oedema genital
+oedema labial genital
+oedema mouth
+oedema mucosal
+oedema peripheral
+oesophageal achalasia
+oesophageal atresia
+oesophageal candidiasis
+oesophageal carcinoma
+oesophageal discomfort
+oesophageal disorder
+oesophageal haemorrhage
+oesophageal irritation
+oesophageal motility disorder
+oesophageal neoplasm
+oesophageal obstruction
+oesophageal oedema
+oesophageal pain
+oesophageal perforation
+oesophageal reflux aggravated
+oesophageal rupture
+oesophageal spasm
+oesophageal stenosis
+oesophageal stenosis acquired
+oesophageal ulcer
+oesophageal varices haemorrhage
+oesophagitis
+oesophagitis ulcerative
+oestradiol increased
+oestrogen deficiency
+oestrogen low
+oestrogenic effect
+oily hair
+oily skin
+olecranon bursitis
+oligohydramnios
+oligomenorrhoea
+oligospermia
+oliguria
+omphalocele
+onychia
+onychoclasis
+onycholysis
+onychomadesis
+onychomycosis
+open wound
+operative bleeding
+ophthalmic herpes simplex
+ophthalmic herpes zoster
+ophthalmoplegia
+opioid abuse
+opioid naive
+opisthotonus
+opportunistic infection
+opportunistic mycosis
+oppositional
+optic atrophy
+optic disc vascular disorder
+optic ischaemic neuropathy
+optic nerve cupping
+optic nerve disorder
+optic neuritis
+oral candidiasis
+oral discomfort
+oral disorder
+oral fungal infection
+oral herpes
+oral infection
+oral lesion
+oral mucosa erosion
+oral mucosa sore
+oral mucosal blistering
+oral mucosal discolouration
+oral mucosal disorder
+oral mucosal exfoliation
+oral mucosal irritation
+oral mucosal petechiae
+oral neoplasm
+oral neoplasm benign
+oral pain
+oral papilloma
+oral pruritus
+oral pustule
+oral soft tissue disorder nos
+oral toxicity
+orbital oedema
+orchitis
+orchitis noninfective
+organ failure
+organic brain syndrome
+organising pneumonia
+orgasm abnormal
+orgasmic sensation decreased
+orofacial dyskinesia
+orofacial oedema
+oromandibular dystonia
+oropharyngeal blistering
+oropharyngeal candidiasis
+oropharyngeal discomfort
+oropharyngeal pain
+oropharyngeal spasm
+oropharyngeal squamous cell carcinoma
+oropharyngeal swelling
+orthopnoea
+orthostatic collapse
+orthostatic dysregulation
+orthostatic hypertension
+orthostatic hypotension
+orthostatic intolerance
+oscillopsia
+osmolality increased
+osmotic demyelination syndrome
+osteitis
+osteoarthritis
+osteoarthritis aggravated
+osteoarticular pain
+osteocalcin increased
+osteochondrosis
+osteodystrophy
+osteogenesis imperfecta
+osteolysis
+osteolytic lesion
+osteomalacia
+osteomyelitis
+osteonecrosis
+osteonecrosis of jaw
+osteopenia
+osteoporosis
+osteoporotic fracture
+osteosarcoma
+osteosarcoma metastatic
+osteosclerosis
+other acne
+other bacterial diseases
+other conjunctivitis
+other dermatoses
+other disorders of eye
+other forms of epilepsy
+other scleritis
+other sleep disturbances
+otitis
+otitis externa
+otitis media
+otitis media acute
+otitis media chronic
+otitis media serous
+otorrhoea
+otosalpingitis
+ototoxicity
+ovarian atrophy
+ovarian cancer
+ovarian carcinoma
+ovarian cyst
+ovarian disorder
+ovarian enlargement
+ovarian failure
+ovarian germ cell teratoma benign
+ovarian haemorrhage
+ovarian hyperstimulation
+ovarian hyperstimulation syndrome
+ovarian neoplasm
+ovarian pain
+overactivity
+overdose
+overdose effect
+oversedation
+ovulation disorder
+ovulation inhibited
+ovulation pain
+oxygen saturation decreased
+pain
+pain burning
+pain during injection
+pain hunger
+pain in arm
+pain in elbow
+pain in extremity
+pain in fingers
+pain in jaw
+pain localised
+pain neck/shoulder
+pain nerve
+pain of lower extremities
+pain of skin
+pain worsened
+painful ankle
+painful ejaculation
+painful erection
+painful red eyes
+painful respiration
+painful response to normal stimuli
+pallanesthesia
+pallor
+pallor facial
+pallor of skin
+palmar erythema
+palmar-plantar erythema
+palmar-plantar erythrodysaesthesia syndrome
+palpable purpura
+palpitations
+pancolitis
+pancreatic abscess
+pancreatic carcinoma
+pancreatic disorder
+pancreatic enzymes abnormal
+pancreatic enzymes increased
+pancreatic insufficiency
+pancreatic necrosis
+pancreatic neoplasm
+pancreatic pseudocyst
+pancreatitis
+pancreatitis acute
+pancreatitis acute on chronic
+pancreatitis aggravated
+pancreatitis chronic
+pancreatitis due to biliary obstruction
+pancreatitis haemorrhagic
+pancreatitis necrotising
+pancytopenia
+panic attack
+panic disorder
+panic reaction
+panniculitis
+panophthalmitis
+panuveitis
+papanicolaou smear suspicious
+papillary muscle rupture
+papillary thyroid cancer
+papilloedema
+papilloma
+papillomatosis
+papule
+papulopustular rash
+paracoccidioides infection
+paradoxical pressor response
+paraesthesia
+paraesthesia foot
+paraesthesia hand
+paraesthesia nec
+paraesthesia oral
+paraesthesia skin
+paraesthesias and dysaesthesias
+parainfluenzae virus infection
+paralysis
+paralysis flaccid
+paralysis of bladder
+paranasal sinus hypersecretion
+paranoia
+paranoid delusions
+paranoid reaction
+paranoid state
+paraparesis
+paraplegia
+paraproteinaemia
+parasomnia
+parasuicide
+parathyroid disorder
+parathyroid tumour
+parathyroid tumour benign
+paresis
+paresthesia generalized
+paresthesia lips
+paresthesia lower limb
+paresthesia of fingers
+paresthesia of limbs
+paresthesia of scalp
+parkinsonian gait
+parkinsonian rest tremor
+parkinsonism
+parkinsonism aggravated
+parkinson's disease
+parkinson's disease aggravated
+paronychia
+parosmia
+parotid duct obstruction
+parotid gland enlargement
+parotid gland inflammation
+parotid swelling
+parotitis
+paroxysmal atrial fibrillation
+paroxysmal atrial tachycardia
+paroxysmal nocturnal haemoglobinuria
+paroxysmal ventricular tachycardia
+pars planitis
+partial hearing loss
+partial permanent deafness
+partial seizures
+partial transitory deafness
+partner stress
+patent ductus arteriosus
+pathogen resistance
+pathological gambling
+pco2
+pectus excavatum
+pedal pulse decreased
+peliosis hepatis
+pelvic abscess
+pelvic discomfort
+pelvic fibrosis
+pelvic fracture
+pelvic haematoma
+pelvic haemorrhage
+pelvic infection
+pelvic inflammatory disease
+pelvic neoplasm
+pelvic pain
+pelvic pain female
+pelvic peritoneal adhesions
+pelvic peritonitis
+pelvic venous thrombosis
+pelvi-ureteric obstruction
+pemphigoid
+pemphigoid reaction
+pemphigus
+penicillin allergy
+penile curvature
+penile discharge
+penile haematoma
+penile haemorrhage
+penile infection
+penile oedema
+penile pain
+penile swelling
+penis disorder
+peptic ulcer
+peptic ulcer haemorrhage
+peptic ulcer perforation
+peptic ulcer reactivated
+perceptual distortions
+perceptual disturbance
+perennial allergic rhinitis
+performance status decreased
+periarthritis
+pericardial disease
+pericardial effusion
+pericardial haemorrhage
+pericardial rub
+pericarditis
+pericarditis constrictive
+peridiverticular abscess
+perineal abscess
+perineal injury
+perineal laceration
+perineal pain
+perineal pain female
+perinephric collection
+periodontal destruction
+periodontal disease
+periodontitis
+perioral paraesthesia
+perioral tingling
+periorbital haematoma
+periorbital oedema
+periorbital pain
+periorbital swelling
+periostitis
+peripheral arterial disease
+peripheral arterial occlusive disease
+peripheral artery aneurysm
+peripheral artery stenosis
+peripheral artery thrombosis
+peripheral coldness
+peripheral embolism
+peripheral gangrene
+peripheral ischaemia
+peripheral motor neuropathy
+peripheral nerve injury
+peripheral nerve palsy
+peripheral neuropathy aggravated
+peripheral sensorimotor neuropathy
+peripheral sensory neuropathy
+peripheral swelling
+peripheral vascular disorder
+peripheral vasodilatation
+perirectal abscess
+perirenal haematoma
+peritoneal adhesions
+peritoneal cloudy effluent
+peritoneal haemorrhage
+peritoneal infection
+peritonitis
+peritonitis bacterial
+peritonsillar abscess
+peritonsillitis
+periungual erythema
+periventricular leukomalacia
+peroneal nerve palsy
+perseveration
+persistent cough
+persistent dry cough
+persistent foetal circulation
+persistent vomiting
+personality change
+personality disorder
+pertussis
+petechiae
+petit mal epilepsy
+petit mal status, epileptic
+peyronie's disease
+ph urine decreased
+ph urine increased
+phantom limb pain
+phantom pain
+pharmacokinetic interaction
+pharyngeal disorder
+pharyngeal erythema
+pharyngeal haemorrhage
+pharyngeal lesion
+pharyngeal mucositis
+pharyngeal oedema
+pharyngitis
+pharyngitis streptococcal
+pharyngitis ulcerative
+pharyngolaryngeal pain
+pharyngo-oral irritation
+phenylketonuria
+phimosis
+phlebitis
+phlebitis superficial
+phlebosclerosis
+phobia
+phocomelia
+phonological disorder
+phonophobia
+phosphatase alkaline increased
+phosphate increased
+phosphate low
+phosphorus low
+photocontact dermatitis
+photodamaged skin
+photodermatosis
+photoonycholysis
+photophobia
+photopsia
+photosensitivity
+photosensitivity allergic reaction
+photosensitivity reaction
+phototoxicity
+physical assault
+physical wandering
+pica
+pigment dispersion syndrome
+pigmentation disorder
+pigmentation skin
+pill rolling
+piloerection
+pilonidal cyst
+pimples
+pitting edema
+pituitary adenoma
+pituitary apoplexy
+pituitary haemorrhage
+pituitary hormone deficiency
+pituitary infarction
+pituitary microadenoma
+pituitary tumour
+pituitary tumour benign
+pituitary-dependent cushing's syndrome
+pityriasis lichenoides et varioliformis acuta
+placental disorder
+plantar erythema
+plantar fasciitis
+plantar warts
+plaque psoriasis
+plasma calcium decreased
+plasma cell leukaemia
+plasma cell myeloma
+plasma cholesterol increased
+plasma creatinine increased
+plasma osmolality decreased
+plasma osmolality increased
+plasma triglycerides increased
+plasmacytoma
+plasmodium falciparum infection
+platelet aggregation abnormal
+platelet aggregation increased
+platelet aggregation inhibition
+platelet count abnormal
+platelet count decreased
+platelet count normal
+platelet disorder
+platelet dysfunction
+platelet production decreased
+plateletcrit decreased
+pleural disorder
+pleural effusion
+pleural fibrosis
+pleural infection
+pleural rub
+pleural thickening
+pleurisy
+pleuritic pain
+pleuropericarditis
+pleurothotonus
+pneumatosis
+pneumatosis cystoides intestinalis
+pneumatosis intestinalis
+pneumocystis carinii infection
+pneumocystis jirovecii infection
+pneumocystis jirovecii pneumonia
+pneumomediastinum
+pneumonia
+pneumonia anthrax
+pneumonia aspiration
+pneumonia bacterial
+pneumonia cytomegaloviral
+pneumonia due to streptococcus, group b
+pneumonia fungal
+pneumonia hypostatic
+pneumonia klebsiella
+pneumonia mycoplasmal
+pneumonia streptococcal
+pneumopericardium
+pneumoperitoneum
+pneumothorax
+poikilocytosis
+poisoning
+poliomyelitis
+pollakiuria
+polyangiitis
+polyarteritis nodosa
+polyarthralgia
+polyarthritis
+polyarthropathy
+polycystic kidney
+polycystic ovaries
+polycythaemia
+polycythaemia vera
+polydactyly
+polydipsia
+polydipsia psychogenic
+polyhydramnios
+polymenorrhoea
+polymorphic light eruption
+polymorphonuclear leukocytosis
+polymyalgia
+polymyalgia rheumatica
+polymyositis
+polyneuritis
+polyneuropathy
+polyomavirus infections
+polyomavirus-associated nephropathy
+polyp
+polyradiculoneuritis
+polyserositis
+polyuria
+poor concentration
+poor peripheral circulation
+poor quality sleep
+poor urinary stream
+porphyria acute
+porphyria aggravated
+porphyria cutanea tarda
+porphyria hepatic
+porphyria non-acute
+porphyrin metabolism disorder
+portal hypertension
+portal vein thrombosis
+post herpetic neuralgia
+post lumbar puncture syndrome
+post procedural complication
+post procedural constipation
+post procedural diarrhoea
+post procedural discharge
+post procedural haematoma
+post procedural haemorrhage
+post procedural infection
+post procedural nausea
+post procedural oedema
+post procedural pain
+post procedural swelling
+post thrombotic syndrome
+post transplant diabetes mellitus
+post transplant lymphoproliferative disorder
+posterior capsule opacification
+posterior reversible encephalopathy syndrome
+posterior subcapsular cataract
+posterior synechiae of iris
+posterior uveitis
+posterior vitreous detachment
+postictal state
+postinfarction
+postinfarction angina
+postmenopausal haemorrhage
+postmenopausal spotting
+postnasal drip
+postoperative complications nos
+postoperative constipation
+postoperative fever
+postoperative hemorrhage
+postoperative hypertension
+postoperative ileus
+postoperative infection
+postoperative pain
+postoperative shivering
+postoperative wound complication
+postoperative wound infection
+postpartum disorder
+postpartum haemorrhage
+post-traumatic neck syndrome
+post-traumatic pain
+post-tussive vomiting
+postural orthostatic tachycardia syndrome
+posture abnormal
+potassium abnormal nos
+potassium deficiency
+potassium imbalance
+potassium increased
+potassium low
+precocious puberty
+precordial pain
+pre-eclampsia
+pre-existing disease
+pregnancy
+pregnancy disorder
+pregnancy loss
+pregnancy test false positive
+pregnancy test positive
+prehypertension
+premature baby
+premature delivery
+premature ejaculation
+premature labour
+premature menopause
+premature rupture of membranes
+premature separation of placenta
+premenstrual syndrome
+premenstrual tension
+pre-menstrual tension syndrome
+presbyopia
+pressure of speech
+presyncope
+priapism
+primary graft dysfunction
+primary hypothyroidism
+primary pulmonary hypertension
+prinzmetal angina
+prl increased
+proarrhythmia
+proarrhythmic effect
+procedural complication
+procedural haemorrhage
+procedural hypertension
+procedural hypotension
+procedural nausea
+procedural pain
+procedural site reaction
+proctalgia
+proctitis
+proctitis herpes
+proctitis ulcerative
+proctocolitis
+product taste abnormal
+productive cough
+progesterone
+progesterone levels
+progressive multifocal leukoencephalopathy
+progressive renal failure
+prolactinoma
+prolonged labour
+prolonged menses
+prostate cancer
+prostate cancer metastatic
+prostate carcinoma
+prostate examination abnormal
+prostate induration
+prostate infection
+prostatic acid phosphatase increased
+prostatic adenoma
+prostatic disorder
+prostatic dysplasia
+prostatic hypertrophy
+prostatic intraepithelial neoplasia
+prostatic pain
+prostatic specific antigen increased
+prostatism
+prostatitis
+prostatomegaly
+prosthetic cardiac valve thrombosis
+prostration
+protein allergy
+protein c deficiency
+protein total decreased
+protein urine present
+protein-losing gastroenteropathy
+proteinuria
+prothrombin level abnormal
+prothrombin level decreased
+prothrombin level increased
+prothrombin time abnormal
+prothrombin time ratio
+prothrombin time shortened
+protrusion tongue
+proximal myopathy
+proximal renal tubular acidosis
+prurigo
+pruritus
+pruritus generalised
+pruritus genital
+pruritus nec
+pruritus vulvae
+pseudo-bartter syndrome
+pseudocholinesterase deficiency
+pseudodementia
+pseudofolliculitis barbae
+pseudohyperkalaemia
+pseudolymphoma
+pseudomembranous colitis
+pseudomembranous enterocolitis
+pseudomonal sepsis
+pseudomonas infection
+pseudomononucleosis
+pseudoparkinsonism
+pseudoporphyria
+pseudotumor
+psoriasis
+psoriasis flare-up
+psoriatic arthropathy
+psoriatic plaque
+psychiatric decompensation
+psychiatric evaluation abnormal
+psychiatric symptom
+psychic disturbance
+psychomotor retardation
+psychomotor skills impaired
+psychosexual disorder
+psychosis depressive
+psychosomatic disease
+psychotic behaviour
+psychotic depression
+psychotic disorder
+psychotic episode
+psychotic state
+pterygium
+puberty
+puerperal pyrexia
+pulmonary alveolar haemorrhage
+pulmonary alveolitis
+pulmonary arterial hypertension
+pulmonary congestion
+pulmonary embolism
+pulmonary eosinophilia
+pulmonary fibrosis
+pulmonary function test abnormal
+pulmonary function test decreased
+pulmonary granuloma
+pulmonary haemorrhage
+pulmonary hypertension
+pulmonary hypoplasia
+pulmonary infarction
+pulmonary lymphoma
+pulmonary mass
+pulmonary microemboli
+pulmonary oedema
+pulmonary oil microembolism
+pulmonary ossification
+pulmonary thromboembolism
+pulmonary thrombosis
+pulmonary toxicity
+pulmonary valve incompetence
+pulmonary vasculitis
+pulmonary veno-occlusive disease
+pulpitis dental
+pulse abnormal
+pulse absent
+pulse irregular
+pulse pressure decreased
+pulse rate decrease marked
+pulseless electrical activity
+punctate epithelial erosion
+punctate keratitis
+puncture site haemorrhage
+puncture site pain
+puncture site reaction
+punding
+pupillary deformity
+pupillary disorder
+pupillary reflex impaired
+pupils pinpoint
+pupils unequal
+purine metabolism disorder
+purple glove syndrome
+purple toes syndrome
+purpura
+purpura fulminans
+purpura non-thrombocytopenic
+purpura senile
+purpuric rash
+pustular psoriasis
+pustule
+pyelitis
+pyelonephritis
+pyelonephritis acute
+pyelonephritis chronic
+pyloric stenosis
+pyoderma
+pyoderma gangrenosum
+pyogenic granuloma
+pyometra
+pyramidal tract syndrome
+pyridoxine deficiency
+pyuria
+qrs axis abnormal
+qrs complex
+qrs voltage decreased
+quadriparesis
+quadriplegia
+radial nerve palsy
+radiation injury
+radiation myelopathy
+radiation oesophagitis
+radiation pneumonitis
+radiation recall reaction (dermatologic)
+radiation recall syndrome
+radiation skin injury
+radicular pain
+radiculitis
+radiculopathy
+radius fracture
+rage
+raised liver function tests
+raised serum lipid levels
+raised serum uric acid
+rales
+rash
+rash both legs
+rash bullous
+rash erythematous
+rash follicular
+rash generalised
+rash macular
+rash maculo-papular
+rash morbilliform
+rash mouth
+rash papular
+rash pemphigoid
+rash psoriaform
+rash pustular
+rash recurrent
+rash scaly
+rash scarlatiniform
+rash vesicular
+raynaud-like disorder
+raynaud's disease
+raynaud's phenomenon
+reaction aggravation
+reaction febrile
+reaction gastrointestinal
+reaction to drug excipients
+rebound effect
+rebound hypertension
+recall phenomenon
+rectal abscess
+rectal cancer
+rectal cramps
+rectal discharge
+rectal disorder
+rectal fistula
+rectal haemorrhage
+rectal mass
+rectal polyp
+rectal prolapse
+rectal spasm
+rectal tenesmus
+rectal ulcer
+rectocele
+recurrence of neuromuscular blockade
+recurrent infection
+recurrent pulmonary embolism
+red blood cell abnormality
+red blood cell count decreased
+red blood cell count increased
+red blood cell disorders
+red blood cell sedimentation rate increased
+red blood cells semen positive
+red blotches
+red cell aplasia
+red cell distribution width increased
+red man syndrome
+red neck
+redness
+redness gum
+redness of face
+reflex bradycardia
+reflex sympathetic dystrophy
+reflex tachycardia
+reflexes abnormal
+reflux esophagitis
+reflux gastritis
+refraction disorder
+refractory anaemia with an excess of blasts
+refractory anemia
+refractory anemia with excess blasts in transformation
+refractory cytopenia with unilineage dysplasia
+refractory hypertension
+regurgitation
+regurgitation of food
+relapsing fever
+renal abscess
+renal agenesis
+renal aplasia
+renal artery stenosis
+renal artery thrombosis
+renal cancer
+renal cell carcinoma
+renal colic
+renal cortical necrosis
+renal cyst
+renal dysgenesis
+renal failure
+renal failure acute
+renal failure aggravated
+renal failure chronic
+renal function test abnormal
+renal graft loss
+renal haemorrhage
+renal impairment
+renal infarct
+renal insufficiency aggravated
+renal mass
+renal neoplasm
+renal pain
+renal papillary necrosis
+renal rickets
+renal tubular acidosis
+renal tubular disorder
+renal tubular necrosis
+renal vasculitis
+renal vein thrombosis
+renovascular hypertension
+reperfusion injury
+repetitive speech
+repetitive strain injury
+reproductive system haemorrhages
+reproductive toxicity
+reproductive tract disorder
+residual urine volume
+respiration abnormal
+respiration irregularity
+respiratory acidosis
+respiratory alkalosis
+respiratory arrest
+respiratory depression
+respiratory depth increased
+respiratory disorder
+respiratory disorder neonatal
+respiratory disorders nec
+respiratory distress
+respiratory distress syndrome
+respiratory failure
+respiratory failure aggravated
+respiratory insufficiency
+respiratory moniliasis
+respiratory paralysis
+respiratory rate decreased
+respiratory sighs
+respiratory sounds decreased
+respiratory syncytial virus infection
+respiratory tract congestion
+respiratory tract haemorrhage
+respiratory tract infection
+respiratory tract infection viral
+respiratory tract oedema
+restless legs syndrome
+restlessness aggravated
+restrictive cardiomyopathy
+retained placenta
+retained placenta or membranes
+retching
+retching reflex decreased
+reticulocytopenia
+reticulocytosis
+reticuloendothelial system stimulated
+reticuloendotheliosis
+retinal aneurysm
+retinal artery occlusion
+retinal atrophy
+retinal damage
+retinal degeneration
+retinal depigmentation
+retinal deposits
+retinal detachment
+retinal disorder
+retinal exudates
+retinal haemorrhage
+retinal injury
+retinal ischaemia
+retinal oedema
+retinal pigment epithelial tear
+retinal pigmentation
+retinal scar
+retinal tear
+retinal toxicity
+retinal vascular disorder
+retinal vascular occlusion
+retinal vascular thrombosis
+retinal vein occlusion
+retinal vein thrombosis
+retinitis
+retinogram abnormal
+retinoic acid syndrome
+retinopathy of prematurity
+retinopathy proliferative
+retrograde amnesia
+retrograde ejaculation
+retroperitoneal fibrosis
+retroperitoneal haematoma
+retroperitoneal haemorrhage
+retrosternal discomfort
+retrosternal pain
+reversible cerebral vasoconstriction syndrome
+reversible ischaemic neurological deficit
+reye's syndrome
+rhabdomyolysis
+rheumatic disorder
+rheumatism
+rheumatoid arthritis
+rheumatoid arthritis aggravated
+rhinalgia
+rhinitis
+rhinitis allergic
+rhinitis atrophic
+rhinitis perennial
+rhinitis seasonal
+rhinitis ulcerative
+rhinorrhoea
+rhonchi
+rhythm idioventricular
+rib fracture
+rib pain
+rickets
+right upper quadrant pain
+right ventricular failure
+rigors
+risus sardonicus
+road traffic accident
+rosacea
+rotator cuff syndrome
+rubber sensitivity
+sacroiliitis
+saliva altered
+salivary duct obstruction
+salivary gland conditions
+salivary gland disorder
+salivary gland enlargement
+salivary gland pain
+salivary gland swelling
+salivary hypersecretion
+salivation
+salmonella sepsis
+salmonellosis
+salpingitis
+sarcoidosis
+sarcoma
+sarcoma uterus
+scab
+scald
+scar
+scar pain
+schizoaffective disorder
+schizophrenia
+schizophrenic reaction
+schizophreniform disorder
+sciatica
+scintillating scotoma
+scleral discolouration
+scleral disorder
+scleral haemorrhage
+scleral hyperaemia
+scleral icterus
+scleral pigmentation
+scleral thinning
+scleritis
+scleroderma
+scleromalacia
+sclerosing encapsulating peritonitis
+scoliosis
+scotoma
+scotoma annular
+scotoma of blind spot area
+scratch
+screaming
+scrotal disorder
+scrotal erythema
+scrotal oedema
+scrotal pain
+scrotal swelling
+scrotal ulcer
+seasonal allergy
+sebaceous gland disorder
+sebaceous hyperplasia
+seborrhoeic dermatitis
+seborrhoeic keratosis
+secondary adrenal insufficiency
+secondary adrenocortical insufficiency
+secondary anemia
+secondary hypertension
+secondary hypogonadism
+secondary infection
+secondary parkinsonism
+secondary syphilis
+sedation
+seizure cerebral
+self injurious behaviour
+self mutilation
+self-injurious ideation
+semen abnormal
+semen analysis abnormal
+semen volume decreased
+senile ankylosing vertebral hyperostosis
+sensation of blood flow
+sensation of foreign body
+sensation of heat
+sensation of heaviness
+sensation of pressure
+sensation of warmth
+sense of oppression
+sensitisation
+sensitivity of teeth
+sensorimotor disorder
+sensory ataxia
+sensory disturbance
+sensory loss
+separation
+sepsis
+sepsis neonatal
+sepsis secondary
+septic arthritis streptobacillus
+septic shock
+septicemia
+seroma
+serositis
+serotonin syndrome
+serous retinal detachment
+serum albumin decreased
+serum amylase increased
+serum bicarbonate increased
+serum bilirubin increased
+serum calcium decreased
+serum calcium increased
+serum creatinine abnormal
+serum creatinine decreased
+serum creatinine increased
+serum ferritin decreased
+serum ferritin increased
+serum gastrin increased
+serum iron decreased
+serum iron increased
+serum osmolality increased
+serum phosphate increased
+serum potassium abnormal
+serum potassium decreased
+serum potassium increased
+serum prolactin decreased
+serum prolactin increased
+serum sickness
+serum sickness-like reaction
+serum sodium abnormal
+serum testosterone decreased
+serum testosterone increased
+serum total protein decreased
+serum transaminase increased
+serum triglycerides increased
+serum urea increased
+severe acute respiratory syndrome
+sexual desire disorders
+sexual dysfunction
+sexually active
+sexually transmitted disease
+shakiness
+shallow breathing
+shift to the left
+shivering
+shock
+shock haemorrhagic
+shock hypoglycaemic
+shock insulin
+short period
+shortened cervix
+short-term memory loss
+shoulder pain
+shunt thrombosis
+shutdown renal
+sialoadenitis
+sick sinus syndrome
+sickle cell anaemia
+sickle cell anaemia with crisis
+sickness
+sideroblastic anaemia
+single umbilical artery
+sinoatrial block
+sinoatrial node dysfunction
+sinobronchitis
+sinus arrest
+sinus arrhythmia
+sinus bradycardia
+sinus congestion
+sinus disorder
+sinus headache
+sinus operation
+sinus pain
+sinus rhythm
+sinus tachycardia
+sinusitis
+sinusitis bacterial
+sjogren's syndrome
+skeletal injury
+skeletal muscle paralysis
+skin atrophy
+skin bacterial infection
+skin bleeding
+skin breakdown
+skin burning sensation
+skin cancer
+skin candida
+skin carcinoma
+skin cold clammy
+skin depigmentation
+skin discolouration
+skin discomfort
+skin disorder
+skin erosion
+skin exfoliation
+skin fibrosis
+skin fissures
+skin fragility
+skin haemorrhage
+skin hyperpigmentation
+skin hypertrophy
+skin induration
+skin infection
+skin irritation
+skin laceration
+skin lesion
+skin maceration
+skin mass
+skin necrosis
+skin nodule
+skin odour abnormal
+skin oedema
+skin papilloma
+skin reaction
+skin scaly
+skin sensitisation
+skin striae
+skin swelling
+skin tear
+skin tenderness
+skin thickening
+skin thinness
+skin tightness
+skin toxicity
+skin ulcer
+skin warm
+skin wrinkling
+skin xerosis
+skipped beats
+skull hypoplasia
+skull malformation
+sleep apnoea syndrome
+sleep attacks
+sleep disorder
+sleep disturbance
+sleep paralysis
+sleep phase rhythm disturbance
+sleep talking
+sleep terror
+slipped femoral capital epiphysis
+slough injection site
+slow speech
+sluggishness
+slurred speech
+small bowel angioedema
+small cell lung cancer
+small intestinal obstruction
+small intestinal perforation
+small intestine ulcer
+smarting
+smear cervix abnormal
+smear cervix normal
+sneezing
+sneezing excessive
+snoring
+social avoidant behaviour
+sodium decreased
+sodium high
+soft stools
+soft tissue disorder
+soft tissue infection
+soft tissue inflammation
+soft tissue injury
+soft tissue necrosis
+solar dermatitis
+solar lentigo
+solid tumour
+somatic hallucination
+somatoform disorder
+somnambulism
+somnolence
+somnolence neonatal
+sore eye
+sore mouth
+sore nose
+spasm biliary
+spasm of accommodation
+spasm of sphincter of oddi
+spasmodic dysphonia
+spastic paralysis
+spastic paraparesis
+speech and language abnormalities
+speech disorder
+speech impairment nos
+speech loss
+sperm concentration
+sperm concentration decreased
+sperm count decreased
+spermatocele
+spermatogenesis abnormal
+spermatogenesis arrest
+spermatozoa abnormal
+sphincter of oddi dysfunction
+spina bifida
+spina bifida occulta
+spinal anaesthesia
+spinal compression fracture
+spinal cord compression
+spinal cord disorder
+spinal cord haemorrhage
+spinal cord infarction
+spinal cord injury
+spinal cord paralysis
+spinal disorder
+spinal epidural haematoma
+spinal fracture
+spinal haematoma
+spinal osteoarthritis
+spine malformation
+spleen disorder
+spleen palpable
+splenic infarction
+splenic peliosis
+splenic rupture
+splenic sequestration
+splenomegaly
+splinter haemorrhages
+splitting nails
+spondylitis
+spondyloarthropathy
+spondylosis
+spontaneous bruising
+spontaneous haematoma
+spontaneous penile erection
+sports injury
+spots before eyes
+spotting menstrual
+spotting vaginal
+sprain
+sprue
+sputum discoloured
+sputum increased
+sputum purulent
+squamous cell carcinoma
+squamous cell carcinoma of lung
+squamous cell carcinoma of skin
+st segment elevation myocardial infarction
+staggering gait
+staphylococcal bacteraemia
+staphylococcal infection
+staphylococcal scalded skin syndrome
+staphylococcal skin infection
+staphylococcus aureus bacteremia
+stargardt's disease
+staring
+status asthmaticus
+status epilepticus
+steatorrhoea
+stent occlusion
+stereotypy
+steroid acne
+steroid myopathy
+steroid psychosis
+steroid withdrawal syndrome
+stevens-johnson syndrome
+sticky skin
+stiff back
+stiffness
+stillbirth
+stinging
+stinging of nose
+stinging skin
+stomach ache
+stomach cramps
+stomach dilation procedure
+stomatitis
+stomatitis necrotising
+strabismus
+strangulation
+strangury
+streptobacillary fever
+streptococcal infection
+streptococcal sepsis
+stress
+stress at work
+stress fracture
+stress symptoms
+stridor
+stridor inspiratory
+stroke volume increased
+strongyloidiasis
+stupor
+stuttering
+subacute bacterial endocarditis
+subacute endocarditis
+subarachnoid haemorrhage
+subconjunctival cyst
+subconjunctival hemorrhage
+subcutaneous abscess
+subcutaneous bleeding
+subcutaneous haematoma
+subcutaneous nodule
+subdural effusion
+subdural haematoma
+subepithelial opacities
+subglottic edema
+subileus
+subjective visual disturbances
+subluxation hip
+submandibular mass
+substance abuse
+substance-induced psychotic disorder
+sudden cardiac death
+sudden deafness
+sudden death
+sudden death, cause unknown
+sudden hearing loss
+sudden infant death syndrome
+sudden onset of sleep
+sudden unexplained death in epilepsy
+sudden visual loss
+suicidal behaviour
+suicidal ideation
+suicidal tendency
+suicide
+suicide attempt
+sulphaemoglobinaemia
+sunburn
+sunken eyes
+superficial phlebothrombosis
+superficial punctate keratopathy
+superficial thrombophlebitis of leg
+superinfection
+superior sagittal sinus thrombosis
+superior vena cava syndrome
+supernumerary nipple
+supine hypotension
+suppressed lactation
+suprapubic pain
+supraventricular extrasystoles
+supraventricular tachyarrhythmia
+supraventricular tachycardia
+surgery
+surgical intervention
+surgical site reaction
+suspiciousness
+sustained ventricular tachycardia
+suture related complication
+sweat gland disorder
+sweat gland tumour
+sweating
+sweating decreased
+sweating increased
+swelling
+swelling face
+swelling of eyelid
+swelling of knees
+swelling of legs
+swelling of limb
+swollen arm
+swollen tongue
+sympathomimetic effect
+symptomatic hyperlactatemia
+syncope
+syncope vasovagal
+syndactyly
+syndrome fanconi-like
+syndrome screaming
+syndrome sicca
+synovial cyst
+synovitis
+syphilis
+systemic allergic reaction
+systemic candida
+systemic inflammatory response syndrome
+systemic lupus erythematosus
+systemic lupus erythematosus rash
+systemic mycosis
+systolic ejection murmur
+systolic hypertension
+systolic murmur
+tachyarrhythmia
+tachycardia
+tachycardia foetal
+tachycardia nervous
+tachyphylaxis
+tachypnoea
+talipes
+talkativeness
+tandem gait test abnormal
+tardive dyskinesia
+taste altered
+taste bitter
+taste disorders
+taste metallic
+taste peculiar
+taste salty
+taste sour
+taste sweet
+t-cell lymphoma
+tearfulness
+tearing eyes
+teeth clenching
+teething
+teething pain
+telangiectasia
+telangiectasis facial
+telogen effluvium
+temper tantrum
+temperature intolerance
+temperature regulation disorder
+temporal arteritis
+temporal disorientation
+temporomandibular joint syndrome
+tenderness
+tendinous contracture
+tendon disorder
+tendon injury
+tendon pain
+tendon reflex decreased
+tendon rupture
+tendonitis
+tenosynovitis
+tension
+tension headache
+teratogenicity
+terminal insomnia
+testicular atrophy
+testicular disorder
+testicular pain
+testicular swelling
+testis cancer
+testosterone low
+tetanus
+tetanus-like
+tetany
+tetrahydrobiopterin deficiency
+therapeutic response decreased
+therapeutic response increased
+therapeutic response unexpected
+therapy naive
+thermal burn
+thinking abnormal
+thirst
+thoracic vertebral fracture
+thought blocking
+thready pulse
+throat irritation
+throat sore
+throat tightness
+throbbing headache
+thrombocytopenia
+thrombocytopenia aggravated
+thrombocytopenia toxic
+thrombocytopenic purpura
+thrombocytosis
+thromboembolic event
+thromboembolic stroke
+thromboembolism
+thrombophilia
+thrombophlebitis
+thrombophlebitis injection site
+thrombophlebitis leg deep
+thrombophlebitis of the leg
+thrombophlebitis superficial
+thromboplastin decreased
+thrombosis
+thrombosis in device
+thrombosis leg
+thrombosis mesenteric vessel
+thrombotic microangiopathy
+thrombotic thrombocytopenic purpura
+thyroglobulin increased
+thyroid adenoma
+thyroid cancer
+thyroid carcinoma
+thyroid disorder
+thyroid function abnormal
+thyroid function test abnormal
+thyroid neoplasm
+thyroid nodule
+thyroiditis
+thyrotoxic crisis
+thyrotoxicosis
+thyrotropin high
+thyrotropin low
+thyroxine decreased
+thyroxine free decreased
+tibc
+tibial torsion
+tic
+tight foreskin
+tightness in jaw
+tinea cruris
+tinea infection
+tinea pedis
+tinea versicolour
+tingling of extremity
+tingling sensation
+tingling skin
+tinnitus
+tinnitus aggravated
+tired and heavy
+tobacco poisoning
+tobacco withdrawal symptoms
+toe walking
+tolerance development
+tongue blistering
+tongue coated
+tongue discolouration
+tongue disorder
+tongue dry
+tongue geographic
+tongue hairy
+tongue irritation
+tongue neoplasm
+tongue neoplasm malignant stage unspecified
+tongue oedema
+tongue paralysis
+tongue pigmentation
+tongue spasm
+tongue ulceration
+tonic clonic movements
+tonic convulsion
+tonic-clonic seizures
+tonsillar disorder
+tonsillar hypertrophy
+tonsillitis
+tooth abscess
+tooth caries aggravated nos
+tooth discolouration
+tooth disorder
+tooth erosion
+tooth fracture
+tooth hypoplasia
+tooth infection
+tooth injury
+tooth loss
+tooth malformation
+toothache
+torsade de pointes
+torsion of ovary
+torticollis
+total spinal block
+tourette's disorder
+toxic confusional state
+toxic dilatation of intestine
+toxic encephalopathy
+toxic epidermal necrolysis
+toxic neuropathy
+toxic pustuloderma
+toxic reaction (nos)
+toxic shock syndrome
+toxic skin eruption
+toxic symptom
+toxicity to various agents
+toxoplasmosis
+tracheal disorder
+tracheal fistula
+tracheitis
+tracheobronchitis
+tracheo-oesophageal fistula
+tracheostomy infection
+traffic accident
+tranquillisation excessive
+transaminases decreased
+transaminases increased
+transaminitis
+transfusion reaction
+transient cerebral ischemia
+transient cerebrovascular events
+transient global amnesia
+transient insomnia
+transient ischaemic attack
+transplant failure
+transplant rejection
+transverse sinus thrombosis
+trauma
+traumatic arthropathy
+traumatic fracture
+traumatic haematoma
+traumatic haemorrhage
+traumatic liver injury
+traumatic lung injury
+trembling
+tremor
+tremor coarse
+tremor fine
+tremor limb
+tremor muscle
+tremor of hands
+tremulousness
+treponema infections
+trichomonal vaginitis
+trichorrhexis
+trichotillomania
+tricuspid valve incompetence
+trigeminal neuralgia
+trigger finger
+trismus
+trisomy 18
+trisomy 21
+troponin i increased
+troponin increased
+tubal pregnancy
+tuberculin test positive
+tuberculosis
+tubulointerstitial nephritis
+tumour cell mobilisation
+tumour compression
+tumour flare
+tumour haemorrhage
+tumour invasion
+tumour lysis syndrome
+tumour necrosis
+tumour pain
+tunnel vision
+turner's syndrome
+tympanic membrane disorder
+tympanic membrane hyperaemia
+tympanic membrane perforation
+type 1 diabetes mellitus
+type 2 diabetes mellitus
+type i hypersensitivity
+type iia hyperlipidaemia
+type iii immune complex mediated reaction
+type iv hypersensitivity reaction
+typhoid fever
+ulcer
+ulcer foot
+ulcer haemorrhage
+ulcerative enterocolitis
+ulcerative keratitis
+ulcerative stomatitis
+ulna fracture
+ultrasound breast abnormal
+ultrasound ovary abnormal
+umbilical hernia
+unable to walk
+uncontrolled hypertension
+underweight
+unexpected therapeutic effect
+unilateral vision loss
+unintended pregnancy
+unresponsive to stimuli
+unresponsive to verbal stimuli
+unrest
+unspecified circulatory system disorder
+unspecified condition originating in the perinatal period
+unspecified congenital anomaly of brain, spinal cord, and nervous system
+unspecified disorder of autonomic nervous system
+unspecified disorder of intestine
+unspecified disorder of skin and subcutaneous tissue
+unspecified non-gonococcal urethritis (ngu)
+unspecified visual loss
+unsteadiness
+unsteady gait
+unwanted awareness during anaesthesia
+unwell
+upper abdominal discomfort
+upper airway obstruction
+upper gastrointestinal haemorrhage
+upper gastrointestinal symptoms
+upper limb fracture
+upper limb oedema
+upper motor neurone lesion
+upper respiratory tract congestion
+upper respiratory tract infection
+upper respiratory tract inflammation
+upper respiratory tract signs and symptoms
+upper-airway cough syndrome
+upset stomach
+uraemic syndrome
+urate crystalluria
+urate nephropathy
+urea increased
+uremia
+ureteral spasm
+ureteric cancer
+ureteric obstruction
+ureteritis
+ureterostomy site discomfort
+urethral discharge
+urethral disorder
+urethral haemorrhage
+urethral obstruction
+urethral pain
+urethral stenosis
+urethral syndrome
+urethritis
+urethritis noninfective
+urge incontinence
+uric acid abnormal
+uric acid high
+uric acid increased
+uric acid level increased
+uricaciduria
+urinary abnormalities
+urinary bladder polyp
+urinary frequency aggravated
+urinary hesitation
+urinary incontinence
+urinary protein increased
+urinary retention
+urinary sediment abnormal
+urinary sediment present
+urinary tract disorder
+urinary tract infection
+urinary tract infection fungal
+urinary tract obstruction
+urinary tract pain
+urinary tract signs and symptoms
+urination impaired
+urine abnormality
+urine analysis abnormal
+urine calcium increased
+urine color abnormal
+urine drug screen positive
+urine electrolytes abnormal
+urine flow decreased
+urine ketone body present
+urine odour abnormal
+urine odour foul
+urine output
+urine output increased
+urine phosphate increased
+urine phosphorus increased
+urine sodium increased
+urogenital disorder
+urogenital haemorrhage
+urolithiasis
+urosepsis
+urticaria
+urticaria chronic
+urticaria localised
+urticaria physical
+urticaria recurrent
+urticaria vesiculosa
+uterine atony
+uterine cancer
+uterine cervical erosion
+uterine cervical lesion
+uterine cervical squamous metaplasia
+uterine contractions
+uterine contractions during pregnancy
+uterine cramps
+uterine cyst
+uterine disorder
+uterine enlargement
+uterine fibroids aggravated
+uterine fibroids enlarged
+uterine haemorrhage
+uterine hypertonus
+uterine hypotonus
+uterine inflammation
+uterine leiomyoma
+uterine mass
+uterine neoplasm
+uterine pain
+uterine perforation
+uterine polyp
+uterine prolapse
+uterine rupture
+uterine spasm
+uterovaginal prolapse
+uveitis
+vaginal burning sensation
+vaginal contraceptive device expelled
+vaginal cyst
+vaginal discharge
+vaginal discomfort
+vaginal disorder
+vaginal dryness
+vaginal dysplasia
+vaginal erosion
+vaginal erythema
+vaginal haemorrhage
+vaginal infection
+vaginal inflammation
+vaginal irritation
+vaginal itching
+vaginal moniliasis
+vaginal mucosal blistering
+vaginal mycosis
+vaginal neoplasm
+vaginal odour
+vaginal pain
+vaginal prolapse
+vaginal swelling
+vaginal ulceration
+vaginal wall congestion
+vaginismus
+vaginitis atrophic
+vaginitis bacterial
+vaginitis ulcerative
+vagotonia
+vanishing bile duct syndrome
+varicella
+varicella zoster
+varices oesophageal
+varicocele
+varicose vein
+varicose veins vulval
+variegate porphyria
+vascular anomaly
+vascular calcification
+vascular dementia
+vascular graft occlusion
+vascular headache
+vascular hypertensive disorders
+vascular hypotensive disorders
+vascular insufficiency
+vascular occlusion
+vascular pain
+vascular pseudoaneurysm
+vascular purpura
+vascular resistance
+vascular resistance pulmonary increased
+vascular resistance systemic
+vascular rupture
+vascular stenosis
+vasculitic rash
+vasculitis
+vasculitis cerebral
+vasculitis gastrointestinal
+vasculitis necrotising
+vasoconstriction
+vasoconstriction peripheral
+vasodilatation
+vasodilation
+vasodilation procedure
+vasomotor collapse
+vasomotor rhinitis
+vaso-occlusive crisis
+vasospasm
+vasospasm cerebral
+vasovagal symptoms
+vegetative dystonia
+vein discolouration
+vein disorder
+vein distended
+vein pain
+vena cava thrombosis
+venipuncture site bruise
+venipuncture site hemorrhage
+venomous bite
+venoocclusive disease
+venoocclusive liver disease
+venospasm
+venous insufficiency
+venous occlusion
+venous pressure increased
+venous pressure jugular increased
+venous thromboembolism
+venous thrombosis
+venous thrombosis deep limb
+venous thrombosis limb
+ventilator associated pneumonia
+ventricular arrhythmia
+ventricular bigeminy
+ventricular dysfunction
+ventricular extrasystoles
+ventricular failure
+ventricular fibrillation
+ventricular flutter
+ventricular hypertrophy
+ventricular hypokinesia
+ventricular septal defect
+ventricular tachycardia
+vermiculation
+vertebrobasilar insufficiency
+vertical infection transmission
+vertigo
+vertigo cns origin
+vertigo positional
+vesiculobullous rash
+vessel perforation
+vessel puncture site bruise
+vessel puncture site haematoma
+vessel puncture site haemorrhage
+vessel puncture site inflammation
+vestibular ataxia
+vestibular disorder
+vestibular neuronitis
+vestibular toxicity
+viith nerve paralysis
+violent
+violent behavior
+viraemia
+viral diarrhoea
+viral infection
+viral infections nec
+viral pharyngitis
+viral skin infection
+viral syndrome
+viral upper respiratory tract infection
+virilism
+vision blurred
+vision decreased
+visual acuity reduced
+visual brightness
+visual colour distortions
+visual disturbance
+visual evoked potentials abnormal
+visual field constriction
+visual impairment
+vital dye staining cornea present
+vitamin b complex deficiency
+vitamin b12 absorption decreased
+vitamin b12 deficiency
+vitamin b6 deficiency
+vitamin e decreased
+vitamin k decreased
+vitamin k deficiency
+vith nerve paralysis
+vitiligo
+vitreous detachment
+vitreous disorder
+vitreous floaters
+vitreous haemorrhage
+vitreous opacities
+vitreous prolapse
+vivid dreams
+vocal cord disorder
+vocal cord paralysis
+vocal cord paresis
+vocal tic
+vogt-koyanagi-harada syndrome
+voice disturbance
+volume blood increased
+volume plasma increased
+volvulus
+vomiting
+vomiting aggravated
+vomiting neonatal
+vt
+vulva discomfort
+vulval abscess
+vulval disorder
+vulval erythema
+vulval ulceration
+vulvitis
+vulvovaginal burning sensation
+vulvovaginal candidiasis
+vulvovaginal discomfort
+vulvovaginal disorder
+vulvovaginal dryness
+vulvovaginal erythema
+vulvovaginal mycotic infection
+vulvovaginal pain
+vulvovaginal pruritus
+vulvovaginal swelling
+vulvovaginitis
+vulvovaginitis trichomonal
+waist circumference increased
+wakefulness
+walking disability
+wandering pacemaker
+warm type haemolytic anaemia
+warmth
+warts
+wasting generalized
+water intoxication
+water retention
+watery diarrhoea
+wave slowing
+waxy flexibility
+wbc abnormal nos
+wegener's granulomatosis
+weight decreased
+weight fluctuation
+weight gain poor
+weight increased
+welts
+wenckebach phenomenon
+wernicke-korsakoff syndrome
+wheezing
+wheezing expiratory
+wheezing inspiratory
+whiplash injury
+white blood cell count abnormal
+white blood cell count decreased
+white blood cell count increased
+white blood cell count low
+white blood cell disorder
+white blood cells urine positive
+white matter lesion
+wide complex tachycardia
+withdrawal bleed
+withdrawal emotional
+withdrawal hypertension
+withdrawal seizures
+withdrawal symptom
+withdrawal syndrome
+word finding difficulty
+worry
+worsening of diabetes
+wound
+wound complication
+wound dehiscence
+wound discharge increased
+wound haematoma
+wound haemorrhage
+wound healing normal
+wound infection
+wound secretion
+wrist drop
+wrist fracture
+writing impaired
+xanthoma
+xanthomatosis
+xanthopsia
+xeroderma
+xerophthalmia
+xerosis
+x-linked lymphoproliferative syndrome
+yawning
+yeast infection
+yellow nail syndrome
+yellow skin
+zinc deficiency
+zollinger-ellison syndrome
+zygomycosis
