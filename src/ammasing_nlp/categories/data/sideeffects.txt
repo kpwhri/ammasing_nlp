@@ -91,11 +91,10 @@ is not sleeping well
 isn't doing well
 jitteriness
 jittery
-lack of appetitepossibly
+lack of appetite
 lack of energy
-lack of energyaffirmativ
-lack of energyaffirmative
-lak of appetite
+lack of energy
+lack of energy
 lassitude
 lethargy
 lightheaded
@@ -113,7 +112,7 @@ medication problem
 medication problems
 medication side effect
 mood swings
-n/v/d,
+n/v/d
 nausea
 nauseated
 negative reaction
@@ -147,7 +146,7 @@ sedating
 seeing spots
 serotonin syndrome
 se's
-sexual adv. effects
+sexual adv effects
 sexual adverse effects
 sexual dysfunction
 sexual dysfunctional
@@ -160,8 +159,6 @@ sick to her stomach
 side affects
 side effect
 side effects
-side-effect
-side-effects
 sleeping a lot
 sleepy
 somnolence
