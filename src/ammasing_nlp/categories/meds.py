@@ -1,3 +1,4 @@
+import re
 from pathlib import Path
 
 _MEDICATIONS = set()
@@ -20,3 +21,10 @@ def get_meds_rx():
         _MEDS_RX = rf'\b(?:{meds})\b'
     return _MEDS_RX
 
+
+MEDICATION_PAT = re.compile(
+    rf'\b(?:'
+    rf'{get_meds_rx()}'
+    rf')\b',
+    re.I
+)
