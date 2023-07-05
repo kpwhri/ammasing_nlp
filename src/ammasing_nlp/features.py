@@ -2,7 +2,7 @@ import re
 
 from nlpakki.feat.ctxt import FeatureFunction
 
-NOTE_SPLITTER = re.compile(
+SECTION_SPLITTER = re.compile(
     r'(?:(?P<plan>P[LANlan]*)|'
     r'(?P<subj>S[UBJECTIVubjectiv]*)|'
     r'(?P<obj>O[BJECTIVbjectiv]*)|'

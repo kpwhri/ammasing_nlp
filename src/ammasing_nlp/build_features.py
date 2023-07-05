@@ -7,7 +7,7 @@ from ammasing_nlp.categories.prob_free_use import PFU_PAT
 from ammasing_nlp.categories.sideeffects import SE_PAT
 from ammasing_nlp.categories.sider import SIDER_PAT
 from ammasing_nlp.categories.statusterms import STATUS_PAT
-from ammasing_nlp.features import FEATURE_FUNCTIONS
+from ammasing_nlp.features import FEATURE_FUNCTIONS, SECTION_SPLITTER
 
 
 def build_features_for_notes(note_iter):
@@ -19,7 +19,7 @@ def build_features_for_notes(note_iter):
 
 
 def build_feature_for_note(note_id, note_text, keys, features):
-    cb = ContextBuilder(note_text)
+    cb = ContextBuilder(note_text, section_split_rx=SECTION_SPLITTER)
     cb.ssplit(brat_ssplit)
     cb.match('Side_Effect', SE_PAT, SIDER_PAT)
     cb.match('Medication', MEDICATION_PAT)
