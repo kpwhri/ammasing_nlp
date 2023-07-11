@@ -20,6 +20,6 @@ def spans_sideeffect(dataset, source):
         'stream': stream,
         'config': {
             'labels': ['RELEVANT_SE', 'BOILERPLATE', 'MEDICATION', 'SIDE_EFFECT',
-                       'STATUS', 'PFU', 'DISCONTINUE', 'MED_DISCONTINUE']
+                       'STATUS', 'PFU', 'DISCONTINUE', 'MED_DISCONTINUE'],
         }
     }
