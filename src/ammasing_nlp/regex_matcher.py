@@ -3,11 +3,11 @@ Taken from medspacy implementation (MIT License)
 
 """
 import re
-from typing import Iterable, Callable, Optional, List, Tuple, Any
+from typing import Callable, Optional, List, Tuple, Any, Pattern
 
 from spacy import Vocab
 from spacy.matcher import Matcher
-from spacy.tokens import Doc, Token
+from spacy.tokens import Doc, Token, Span
 
 
 class RegexMatcher:
@@ -65,7 +65,7 @@ class RegexMatcher:
     def add(
             self,
             match_id: str,
-            regex_rules: Iterable[str],
+            *regex_rules: str | Pattern,
             on_match: Optional[
                 Callable[[Matcher, Doc, int, List[Tuple[int, int, int]]], Any]
             ] = None,
@@ -84,14 +84,14 @@ class RegexMatcher:
         self._patterns.setdefault(self.vocab.strings[match_id], [])
         for pattern in regex_rules:
             self._patterns[self.vocab.strings[match_id]].append(
-                re.compile(pattern, flags=self.flags)
+                re.compile(pattern, flags=self.flags) if isinstance(pattern, str) else pattern
             )
             self._callbacks[self.vocab.strings[match_id]] = on_match
 
     def get(self, key):
         return self._patterns.get(self.vocab.strings[key], [])
 
-    def __call__(self, doc: Doc) -> List[Tuple[int, int, int]]:
+    def __call__(self, doc: Doc, as_spans=False) -> List[Tuple[int, int, int]] | Span:
         """
         Call the RegexMatcher on a spaCy Doc.
 
@@ -123,8 +123,11 @@ class RegexMatcher:
                     # must have resulted in no tokens being included.
                     # Don't add the match
                     if len(span):
-                        match = (match_id, span.start, span.end)
-                        matches.append(match)
+                        if as_spans:
+                            matches.append(span)
+                        else:
+                            match = (match_id, span.start, span.end)
+                            matches.append(match)
                     # If a callback function was defined,
                     # call it according to the spaCy API:
                     # https://spacy.io/usage/rule-based-matching#on_match
