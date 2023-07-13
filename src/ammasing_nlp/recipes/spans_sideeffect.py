@@ -23,3 +23,23 @@ def spans_sideeffect(dataset, source):
                        'STATUS', 'PFU', 'DISCONTINUE', 'MED_DISCONTINUE'],
         }
     }
+
+
+@prodigy.recipe(
+    'spans.sideeffect.ban',
+    dataset=("Dataset to save annotations to", "positional", None, str),
+    source=("Data to annotate (file path or '-' to read from standard input)", "positional", None, str),
+)
+def spans_sideeffect_ban(dataset, source):
+    log("RECIPE: Starting recipe spans.sideeffect", locals())
+    stream = JSONL(source)
+    stream = make_spans_se_stream(stream, ban=True)
+    return {
+        'dataset': dataset,
+        'view_id': 'spans_manual',
+        'stream': stream,
+        'config': {
+            'labels': ['RELEVANT_SE', 'BOILERPLATE', 'MEDICATION', 'SIDE_EFFECT',
+                       'STATUS', 'PFU', 'DISCONTINUE', 'MED_DISCONTINUE'],
+        }
+    }

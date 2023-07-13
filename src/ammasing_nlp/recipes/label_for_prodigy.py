@@ -15,7 +15,7 @@ nlp = spacy.blank('en')
 strings = nlp.vocab.strings
 matcher = PhraseMatcher(nlp.vocab, attr='LOWER')
 matcher.add('SIDE_EFFECT', [nlp.make_doc(s) for s in get_ses() | get_sider()])
-matcher.add('MEDICATION', [nlp.make_doc(s) for s in get_meds()])
+# matcher.add('MEDICATION', [nlp.make_doc(s) for s in get_meds()])
 
 
 def clean_text(text):
@@ -56,7 +56,7 @@ def add_tokens_to_stream(f):
 
 
 @add_tokens_to_stream
-def make_spans_se_stream(stream):
+def make_spans_se_stream(stream, require=True, ban=False):
     rx_matcher = RegexMatcher(nlp.vocab)
     rx_matcher.add('PFU', PFU_PAT)
     rx_matcher.add('DISCONTINUE', DISCONTINUE_PAT)
@@ -64,7 +64,9 @@ def make_spans_se_stream(stream):
     rx_matcher.add('STATUS', STATUS_PAT)
     for doc, id_ in nlp.pipe(((clean_text(d['text']), d['id']) for d in stream), as_tuples=True):
         matches = matcher(doc, as_spans=True)
-        if not matches:
+        if not ban and require and not matches:
+            continue
+        if ban and matches:
             continue
         spans = rx_matcher(doc, as_spans=True)
         spans = [
