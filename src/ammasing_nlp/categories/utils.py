@@ -38,6 +38,13 @@ def load_vocab_from_file(filename: str):
         return {line.strip() for line in fh}
 
 
+def make_spacy_pattern(phrase, clean=False):
+    if clean:
+        ...
+    else:
+        return []
+
+
 def create_pattern_from_set(data: set, clean=False):
     func = clean_phrase if clean else lambda x: x
     pattern = '|'.join(func(datum) for datum in data)

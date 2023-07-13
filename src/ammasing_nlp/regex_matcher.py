@@ -124,6 +124,7 @@ class RegexMatcher:
                     # Don't add the match
                     if len(span):
                         if as_spans:
+                            span.label = match_id
                             matches.append(span)
                         else:
                             match = (match_id, span.start, span.end)

@@ -42,3 +42,10 @@ from ammasing_nlp.categories.prob_free_use import PFU_PAT
 ])
 def test_pfu_pat(text):
     assert PFU_PAT.search(text)
+
+
+@pytest.mark.parametrize('text', [
+    'it',
+])
+def test_pfu_pat_neg(text):
+    assert not PFU_PAT.search(text)

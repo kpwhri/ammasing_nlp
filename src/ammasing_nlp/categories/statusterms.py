@@ -21,6 +21,10 @@ def get_status_rx():
     return _STATUS_TERMS_RX or (_STATUS_TERMS_RX := create_pattern_from_set(get_status(), clean=True))
 
 
+def get_status_spacy():
+    pass
+
+
 STATUS_PAT = re.compile(
     rf'(?:'
     rf'{get_status_rx()}'
