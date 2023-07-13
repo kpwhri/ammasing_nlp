@@ -91,13 +91,6 @@ def make_spans_se_stream(stream, required: set, banned: set, require=True, skipt
         if required and len(required - matched_labels) > 0:
             continue  # missing a required label
         spans = rx_matcher(doc, as_spans=True)
-        _spans = [
-            {'start': span.start_char,
-             'end': span.end_char,
-             'text': doc.text[span.start_char:span.end_char],
-             'label': strings[span.label],
-             } for span in spans]
-        print(_spans)
         spans = [
             {'start': span.start_char,
              'end': span.end_char,
