@@ -13,7 +13,7 @@ doing_well = (
     rf'(?:(?:doing|done|did|does|tolerat\w*|work\w*|feel\w*)'
     rf'\s*(?:(?:{really}|it|the|{get_meds_rx()}) )*(?:well|good|fine))'
 )
-tolerates = rf'(?:tolerat\w+ (?:{med_pre_filler} )*{get_meds_rx()}|it|well\Wtolerated)'
+tolerates = rf'(?:tolerat\w+ (?:{med_pre_filler} )*(?:{get_meds_rx()}|it)|well\Wtolerated)'
 no_ses = (
     rf'\b(?:{not_had}|den[yi]\w*|not?|w/o|without)'
     rf'\s*(?:(?:any|negative|adverse|observed|significant|side|med\w*|drug|apparent|experienc\w*)\s*)*{side_effects}'

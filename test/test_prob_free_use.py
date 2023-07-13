@@ -8,7 +8,7 @@ from ammasing_nlp.categories.prob_free_use import PFU_PAT
     'without any negative side effects',
     'denies any side effects',
     'did quite well',
-    'does tolerate the medication',
+    'does tolerate the antidepressant',
     'doing quite well on it',
     'doing very well on it',
     'done well',
